@@ -34,6 +34,12 @@
 - Rapidez
 - Trabalho em equipe
 
+## 📊 GitHub Stats
+![cardosofiles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical)
+
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-batista-cardoso-miranda-2b0442268/)
 - [E-mail](contatojoaomiranda@outlook.com)
