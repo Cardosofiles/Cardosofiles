@@ -1,9 +1,10 @@
 # Olá, eu sou João Batista 👋
-## Front-end Developer 
+## Futuro Desenvolvedor Full Stack  
 
 ## 📚 Sobre Mim
 - 🎓 Graduando em Ciência da Computação
 - 💻 Cursando Full Stack JavaScript na OneBitCode
+- 💻 Cursando Python na OneBitCode
 
 ## 🛠 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
