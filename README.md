@@ -2,7 +2,7 @@
 ## Futuro Desenvolvedor Full Stack  
 
 ## 📚 Sobre Mim
-- 🎓 Graduando em Ciência da Computação
+- 🎓 Graduando em Análise e Desenvolvimento de Sistema
 - 💻 Cursando Full Stack JavaScript na OneBitCode
 - 💻 Cursando Python na OneBitCode
 
