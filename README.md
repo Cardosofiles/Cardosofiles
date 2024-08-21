@@ -30,11 +30,19 @@
 ![PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
 
 ## 🌟 Soft Skills
+- Adaptabilidade
+- Cascata (método ágil)
+- Comunicação Eficaz
 - Eficiência
 - Empatia
+- Flexibilidade
+- Gestão de Tempo
 - Paciência
 - Persuasão
+- Raciocínio Lógico
 - Rapidez
+- Resiliência
+- Scrum (método ágil)
 - Trabalho em equipe
 
 ## 📊 GitHub Stats
