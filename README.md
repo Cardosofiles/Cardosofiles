@@ -52,8 +52,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical)
 
 ## 📫 Entre em Contato
-- [LinkedIn](www.linkedin.com/in/joão-batista-2b0442268)
-- [E-mail](contatojoaomiranda@outlook.com)
+- [LinkedIn](https://www.linkedin.com/in/joão-batista-2b0442268)
+- [E-mail](mailto:contatojoaomiranda@outlook.com)
+
+---
+⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil! [GitHub](https://github.com/seu-usuario/seu-repositorio)
+
 
 ---
 ⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil!
