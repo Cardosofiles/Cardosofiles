@@ -53,7 +53,7 @@
 
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/joão-batista-2b0442268)
-- [E-mail](mailto:contatojoaomiranda@outlook.com)
+- [E-mail](mailto:cardosofiles@outlook.com)
 
 ---
 ⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil! [GitHub](https://github.com/seu-usuario/seu-repositorio)
