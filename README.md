@@ -5,6 +5,7 @@
 - 🎓 Graduando em Análise e Desenvolvimento de Sistema
 - 💻 Cursando Full Stack JavaScript na OneBitCode
 - 💻 Cursando Python na OneBitCode
+- 💻 Cursando ReactJS na Rocketseat
 
 ## 🛠 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
