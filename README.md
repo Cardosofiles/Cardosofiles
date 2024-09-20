@@ -59,8 +59,7 @@
 - [E-mail](mailto:cardosofiles@outlook.com)
 
 ---
-⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil! [GitHub](https://github.com/seu-usuario/seu-repositorio)
+⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil! [GitHub](https://github.com/Cardosofiles?tab=repositories)
 
 
----
-⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil!
+
