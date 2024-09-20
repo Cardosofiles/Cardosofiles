@@ -54,7 +54,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; gap: 20px; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 207px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical" alt="Most Used Languages" style="width: 50%; height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical" alt="Most Used Languages" style="width: 50%; height: 187px;">
 </div>
 
 
