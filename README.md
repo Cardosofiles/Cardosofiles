@@ -1,11 +1,9 @@
-<img align="right" height="590cm" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
+<img align="right" height="425cm" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a)</h1>
 
-## Olá, eu sou João Batista 👋
-## Desenvolvedor Front-end  
 
 ## 📚 Sobre Mim
 
-- Graduando em Análise e Desenvolvimento de Sistema  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Cursando Full Stack JavaScript na OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" align="center"/> Cursando Python na OneBitCode  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Cursando ReactJS na Rocketseat
@@ -31,11 +29,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 
+<!--
 
 ## 🧰 Pacote Office
 ![Word](https://img.shields.io/badge/-Microsoft%20Word-05122A?style=flat&logo=microsoft-word)&nbsp;
 ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
+
 
 ## 🌟 Soft Skills
 
@@ -47,16 +47,35 @@
 - Rapidez                       - Resiliência  
 - Scrum (método ágil)            - Trabalho em equipe  
 
-## 📊 GitHub Stats
-![cardosofiles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical)
+-->
 
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=470)
+
+
+## 📊 GitHub Stats e 📈 Most Used Languages
+
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%; height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=470" alt="Most Used Languages" style="height: 180px;">
+</div>
 
 
 ## 📫 Entre em Contato
-- [LinkedIn](https://www.linkedin.com/in/joão-batista-2b0442268)
-- [E-mail](mailto:cardosofiles@outlook.com)
+
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px; justify-content: space-between;">
+
+  <a href="https://www.linkedin.com/in/joão-batista-2b0442268" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  
+  <a href="https://www.instagram.com/joaobaatissta/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="30" height="30"/>
+  </a>
+  
+  <a href="mailto:cardosofiles@outlook.com" target="_blank">
+      <img src="https://cdn.worldvectorlogo.com/logos/outlook-icon.svg" alt="Email" width="30" height="30"/>
+  </a>
+
+</div>
 
 ---
 ⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil! [GitHub](https://github.com/Cardosofiles?tab=repositories)
