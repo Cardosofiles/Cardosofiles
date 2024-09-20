@@ -50,11 +50,11 @@
 -->
 
 
-## 📊 GitHub Stats e 📈 Most Used Languages
+## 📊 GitHub Stats e 📈 Linguagens mais Utilizadas
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%; height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical" alt="Most Used Languages" style="width: 48%; height: 198px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical" alt="Linguagens mais Utilizadas" style="width: 48%; height: 198px;">
 </div>
 
 
