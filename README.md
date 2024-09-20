@@ -1,4 +1,6 @@
-# Olá, eu sou João Batista 👋
+<img align="right" height="590cm" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
+
+## Olá, eu sou João Batista 👋
 ## Futuro Desenvolvedor Full Stack  
 
 ## 📚 Sobre Mim
@@ -33,26 +35,21 @@
 ![PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-05122A?style=flat&logo=microsoft-powerpoint)&nbsp;
 
 ## 🌟 Soft Skills
-- Adaptabilidade
-- Cascata (método ágil)
-- Comunicação Eficaz
-- Eficiência
-- Empatia
-- Flexibilidade
-- Gestão de Tempo
-- Paciência
-- Persuasão
-- Raciocínio Lógico
-- Rapidez
-- Resiliência
-- Scrum (método ágil)
-- Trabalho em equipe
+
+- Adaptabilidade                - Flexibilidade  
+- Cascata (método ágil)          - Gestão de Tempo  
+- Comunicação Eficaz             - Paciência  
+- Eficiência                    - Persuasão  
+- Empatia                       - Raciocínio Lógico  
+- Rapidez                       - Resiliência  
+- Scrum (método ágil)            - Trabalho em equipe  
 
 ## 📊 GitHub Stats
 ![cardosofiles's GitHub stats](https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical)
 
 ## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=470)
+
 
 ## 📫 Entre em Contato
 - [LinkedIn](https://www.linkedin.com/in/joão-batista-2b0442268)
