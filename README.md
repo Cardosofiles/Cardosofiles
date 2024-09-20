@@ -54,7 +54,7 @@
 ## 📊 GitHub Stats e 📈 Most Used Languages
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 40%; height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; height: 180px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=400" alt="Most Used Languages" style="height: 180px;">
 </div>
 
