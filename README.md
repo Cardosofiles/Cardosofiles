@@ -1,7 +1,7 @@
 <img align="right" height="590cm" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
 
 ## Olá, eu sou João Batista 👋
-## Futuro Desenvolvedor Full Stack  
+## Desenvolvedor Front-end  
 
 ## 📚 Sobre Mim
 - 🎓 Graduando em Análise e Desenvolvimento de Sistema
