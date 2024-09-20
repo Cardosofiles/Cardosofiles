@@ -4,10 +4,13 @@
 ## Desenvolvedor Front-end  
 
 ## 📚 Sobre Mim
-- 🎓 Graduando em Análise e Desenvolvimento de Sistema
-- 💻 Cursando Full Stack JavaScript na OneBitCode
-- 💻 Cursando Python na OneBitCode
-- 💻 Cursando ReactJS na Rocketseat
+
+- Graduando em Análise e Desenvolvimento de Sistema  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Cursando Full Stack JavaScript na OneBitCode
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" align="center"/> Cursando Python na OneBitCode  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Cursando ReactJS na Rocketseat
+
+
 
 ## 🛠 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
