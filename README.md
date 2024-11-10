@@ -21,7 +21,6 @@
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -53,8 +52,8 @@
 ## 📊 GitHub Stats e 📈 Linguagens mais Utilizadas
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%; height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical" alt="Linguagens mais Utilizadas" style="width: 48%; height: 198px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=370" alt="Linguagens mais Utilizadas">
 </div>
 
 
