@@ -5,8 +5,8 @@
 ## 📚 Sobre Mim
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Cursando Full Stack JavaScript na OneBitCode
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24" height="24" align="center"/> Cursando Python na OneBitCode  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Cursando ReactJS na Rocketseat
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Cursando Node.js na Rocketseat  
 
 
 
