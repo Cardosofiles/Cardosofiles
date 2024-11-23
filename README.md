@@ -1,5 +1,6 @@
 <img align="right" height="425cm" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a)</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cardosofiles&color=yellow" alt="Profile views" /> </p>
 
 
 ## 📚 Sobre Mim
@@ -8,7 +9,10 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Cursando ReactJS na Rocketseat
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Cursando Node.js na Rocketseat  
 
-
+<!--
+- Web Developer
+- UI/UX Modern
+-->
 
 ## 🛠 Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
