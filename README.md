@@ -1,9 +1,9 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
-<h1 align="left" margin-top="2em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a)</h1>
+<h1 align="left" margin-top="2em">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Welcome</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cardosofiles&color=yellow" alt="Profile views" /> </p>
 
 
-## 📚 Sobre Mim
+## 📚 About Me
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Cursando Full Stack JavaScript na OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Cursando ReactJS na Rocketseat
@@ -15,7 +15,7 @@
 
 
 
-## 🛠 Tecnologias
+## 🛠 Technologies and Tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -69,7 +69,7 @@
 -->
 
 
-## 📊 GitHub Stats e 📈 Linguagens mais Utilizadas
+## 📊 GitHub Stats e 📈 Most Used Languages
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1.5rem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical" alt="GitHub Stats">
@@ -78,7 +78,7 @@
 
 
 
-## 📫 Entre em Contato
+## 📫 Get in Touch
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 20px; justify-content: space-between;">
 
@@ -97,7 +97,7 @@
 </div>
 
 ---
-⭐️ Deixe uma estrela no meu repositório se você gostou do meu perfil! [GitHub](https://github.com/Cardosofiles?tab=repositories)
+⭐️ Leave a star on my repository if you liked my profile! [GitHub](https://github.com/Cardosofiles?tab=repositories)
 
 
 
