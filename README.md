@@ -12,7 +12,7 @@
 
 - Web Developer
 - UI/UX Modern
-- Scalable Solutions
+
 
 
 ## 🛠 Tecnologias
