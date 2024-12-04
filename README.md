@@ -73,7 +73,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1.5rem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical&card_width=337" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=337" alt="Linguagens mais Utilizadas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=338" alt="Linguagens mais Utilizadas">
 </div>
 
 
