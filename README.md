@@ -77,6 +77,20 @@
 </div>
 
 
+## 📁 Repository Organization
+
+### My repositories are organized using the following terminologies:
+
+- **web**: Independent front-end projects
+- **course**: Source code from my courses
+- **server**: API with database and web services for full-stack projects
+- **client**: Web application that interacts with the `server` API
+
+### Example Repositories:
+- `goal-control-client`: Front-end project
+- `goal-control-server`: API for the front-end project
+
+This makes it easier to maintain and scale my projects. 🚀
 
 ## 📫 Get in Touch
 
