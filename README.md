@@ -2,18 +2,14 @@
 <h1 align="left" margin-top="2em">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Welcome</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cardosofiles&color=yellow" alt="Profile views" /> </p>
 
-
 ## 📚 About Me
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Studying Full Stack JavaScript at OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Studying ReactJS at Rocketseat
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Studying Node.js at Rocketseat  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="24" height="24" align="center"/> Studying Java at Rocketseat
 
-
-- Web Developer
 - UI/UX Modern
-
-
 
 ## 🛠 Technologies and Tools
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
@@ -37,6 +33,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Vitest](https://img.shields.io/badge/-Vitest-05122A?style=flat&logo=vitest)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=springboot)&nbsp;
+
+
 
 <!--
 ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-05122A?style=flat&logo=shadcn-ui)&nbsp;
