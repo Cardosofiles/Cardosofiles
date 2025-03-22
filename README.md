@@ -10,6 +10,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Studying Node.js at Rocketseat  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="24" height="24" align="center"/> Studying Java at Rocketseat
 
+- UI/UX Modern
 
 ## 🛠 Technologies and Tools
 <!--
