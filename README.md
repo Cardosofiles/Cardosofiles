@@ -39,7 +39,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=springboot)&nbsp;
 -->
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=tailwind,materialui,js,ts,java,spring,maven,nextjs,react,redux,nodejs,prisma,express,mongodb,mysql,postgres,bun,cypress,vitest,git,github,gitlab,postman,docker,idea,vscode,figma,linux,windows&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=tailwind,materialui,js,ts,java,spring,maven,nextjs,react,redux,nodejs,bun,prisma,express,mongodb,mysql,postgres,cypress,vitest,git,github,gitlab,postman,docker,idea,vscode,figma,linux,windows&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
 
 
