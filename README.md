@@ -16,7 +16,6 @@
 <!--
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
--->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -38,6 +37,9 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-05122A?style=flat&logo=springboot)&nbsp;
+-->
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=tailwind,materialui,js,ts,java,spring,maven,nextjs,react,redux,nodejs,prisma,express,mongodb,mysql,postgres,bun,cypress,vitest,git,github,gitlab,postman,docker,idea,vscode,figma,linux,windows&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
 
 
