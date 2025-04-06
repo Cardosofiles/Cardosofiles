@@ -1,16 +1,22 @@
+<!--
 <img align="right" height="460em" src="https://raw.githubusercontent.com/gist/Cardosofiles/28069204261546871709030521f32c1c/raw/4d285bd847ba2a4c35443b927987ee9ad54f070d/svg-profile.svg" />
+-->
+
 <h1 align="left" margin-top="2em">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Welcome</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cardosofiles&color=yellow" alt="Profile views" /> </p>
 
 ## 📚 About Me
 
+<!--
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Studying Full Stack JavaScript at OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="20" height="20" align="center" /> Studying SQL and databases at OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Studying ReactJS at Rocketseat
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Studying Node.js at Rocketseat  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="24" height="24" align="center"/> Studying Java at Rocketseat
-
 - UI/UX Modern
+-->
+
+<img align="center" src="https://raw.githubusercontent.com/gist/Cardosofiles/26d425ca45d7ab1408e0add182146bdc/raw/af2b8a499a8b9923152a857b2ddb6e6b4133aafb/githubcard.svg" />
 
 ## 🛠 Technologies and Tools
 <!--
