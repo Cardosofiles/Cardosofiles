@@ -96,10 +96,13 @@
 - **course**: Source code from my courses
 - **server**: API with database and web services for full-stack projects
 - **client**: Web application that interacts with the `server` API
+- **software**: Command line application to practice coding
 
 ### Example Repositories:
-- `goal-control-client`: Front-end project
+- `goal-control-client`: Front-end design of API requests
 - `goal-control-server`: API for the front-end project
+- `minimalist-portfolio-web`: Front-end project
+- `bookstore-system-software`: Command line application
 
 This makes it easier to maintain and scale my projects. 🚀
 
