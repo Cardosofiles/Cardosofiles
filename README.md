@@ -97,12 +97,14 @@
 - **server**: API with database and web services for full-stack projects
 - **client**: Web application that interacts with the `server` API
 - **software**: Command line application to practice coding
+- **script**: Command Line Automation Script
 
 ### Example Repositories:
 - `goal-control-client`: Front-end design of API requests
 - `goal-control-server`: API for the front-end project
 - `minimalist-portfolio-web`: Front-end project
 - `bookstore-system-software`: Command line application
+- `gitpsuh-script`: Automation git commands
 
 This makes it easier to maintain and scale my projects. 🚀
 
