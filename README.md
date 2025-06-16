@@ -11,7 +11,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20" align="center" /> Studying Full Stack JavaScript at OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="20" height="20" align="center" /> Studying SQL and databases at OneBitCode
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="24" height="24" align="center"/> Studying ReactJS at Rocketseat
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Studying Node.js at Rocketseat  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24" height="24" align="center"/> Studying Node.js at Rocketseat
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="24" height="24" align="center"/> Studying Java at Rocketseat
 - UI/UX Modern
 -->
@@ -19,6 +19,7 @@
 <img align="center" src="https://raw.githubusercontent.com/gist/Cardosofiles/26d425ca45d7ab1408e0add182146bdc/raw/af2b8a499a8b9923152a857b2ddb6e6b4133aafb/githubcard.svg" />
 
 ## 🛠 Technologies and Tools
+
 <!--
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
@@ -47,8 +48,6 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=tailwind,materialui,js,ts,java,spring,maven,nextjs,react,redux,nodejs,bun,prisma,express,mongodb,mysql,postgres,cypress,vitest,git,github,gitlab,postman,docker,idea,vscode,figma,linux,windows&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
-
-
 <!--
 ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-05122A?style=flat&logo=shadcn-ui)&nbsp;
 ![Radix UI](https://img.shields.io/badge/-Radix%20UI-05122A?style=flat&logo=radix-ui)&nbsp;
@@ -57,7 +56,6 @@
 ![Acenternity UI](https://img.shields.io/badge/-Acenternity%20UI-05122A?style=flat&logo=ui-design)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=FF6C37)&nbsp;
 -->
-
 
 <!--
 
@@ -69,16 +67,15 @@
 
 ## 🌟 Soft Skills
 
-- Adaptabilidade                - Flexibilidade  
-- Cascata (método ágil)          - Gestão de Tempo  
-- Comunicação Eficaz             - Paciência  
-- Eficiência                    - Persuasão  
-- Empatia                       - Raciocínio Lógico  
-- Rapidez                       - Resiliência  
-- Scrum (método ágil)            - Trabalho em equipe  
+- Adaptabilidade                - Flexibilidade
+- Cascata (método ágil)          - Gestão de Tempo
+- Comunicação Eficaz             - Paciência
+- Eficiência                    - Persuasão
+- Empatia                       - Raciocínio Lógico
+- Rapidez                       - Resiliência
+- Scrum (método ágil)            - Trabalho em equipe
 
 -->
-
 
 ## 📊 GitHub Stats | 📈 Most Used Languages
 
@@ -86,7 +83,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=radical&card_width=400" alt="GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=radical&card_width=400" alt="Linguagens mais Utilizadas">
 </div>
-
 
 ## 📁 Repository Organization
 
@@ -98,13 +94,17 @@
 - **client**: Web application that interacts with the `server` API
 - **software**: Command line application to practice coding
 - **script**: Command Line Automation Script
+- **settings**: Settings for Java + Docker project
 
 ### Example Repositories:
+
+- `minimalist-portfolio-web`: Front-end project
+- `advanced-javascript-course`: JavaScript Course
 - `goal-control-client`: Front-end design of API requests
 - `goal-control-server`: API for the front-end project
-- `minimalist-portfolio-web`: Front-end project
 - `bookstore-system-software`: Command line application
 - `gitpsuh-script`: Automation git commands
+- `java-dockerized-settings`: Configurações Java, Spring, Swagger, PostgreSQL
 
 This makes it easier to maintain and scale my projects. 🚀
 
@@ -127,7 +127,5 @@ This makes it easier to maintain and scale my projects. 🚀
 </div>
 
 ---
+
 ⭐️ Leave a star on my repository if you liked my profile! [GitHub](https://github.com/Cardosofiles?tab=repositories)
-
-
-
