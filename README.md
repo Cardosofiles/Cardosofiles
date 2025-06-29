@@ -22,6 +22,8 @@
 
 <!-- [<img align="left" height="94px" width="94px" alt="OneBitCode" src="https://comunidade.onebitcode.com/assets/logo-dark-lg-07e31f7f.png"/>](https://comunidade.onebitcode.com/feed) -->
 
+In the overview below you will find my trainings:
+
 **JavaScript Full Stack** \
 [**OneBitCode**](https://onebitcode.com/javascript) • Jan/2023 - Jan/2024 \
 Languages ​​and Technologies: `JavaScript`, `React`, `Node.js`, `TailwindCSS`, `Styled Component`, `Figma`,\
