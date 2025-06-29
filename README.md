@@ -23,7 +23,7 @@
 <!-- [<img align="left" height="94px" width="94px" alt="OneBitCode" src="https://comunidade.onebitcode.com/assets/logo-dark-lg-07e31f7f.png"/>](https://comunidade.onebitcode.com/feed) -->
 
 **JavaScript Full Stack** \
-[**OneBitCode**](https://onebitcode.com/javascript) • Jan/2023 - jan/2024 \
+[**OneBitCode**](https://onebitcode.com/javascript) • Jan/2023 - Jan/2024 \
 Languages ​​and Technologies: `JavaScript`, `React`, `Node.js`, `TailwindCSS`, `Styled Component`, `Figma`,\
 Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
@@ -32,15 +32,15 @@ Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipe
 
 **TypeScript, React** \
 [**Rocketseat**](https://rocketseat.com.br/) • Ago/2024 - Current \
-Languages ​​and Technologies: `TypeScript`, `TailwindCSS`, `React`\
+Languages ​​and Technologies: `TypeScript`, `TailwindCSS`, `React.js`, `Next.js`, `Shadcn UI`\
 Featured Projects: [Professional Resume](https://cardosofiles.dev/), [Data analysis](https://finance-analysis-client.vercel.app/)
 <br/>
 
 <!-- [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/) -->
 
 **Java** \
-[**Rocketseat**](https://rocketseat.com.br/) • Ago/2024 - Current \
-Languages ​​and Technologies: `Java`, `SpringBoot`, `PostgreSQL`, `JPA`, `API Dog` \
+[**Rocketseat**](https://rocketseat.com.br/) • Jan/2025 - Current \
+Languages ​​and Technologies: `Java`, `SpringBoot`, `PostgreSQL`, `JPA`, `Docker`, `API Dog` \
 Featured Projects: [Task Manager](https://github.com/Cardosofiles/task-manager-server)
 <br/>
 <br/>
