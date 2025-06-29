@@ -139,7 +139,7 @@ Featured Projects: [Task Manager](https://github.com/Cardosofiles/task-manager-s
 - `client`: Web application that interacts with the `server` API
 - `software`: Command line application to practice coding
 - `script`: Command Line Automation Script
-- `settings`: Settings for Java + Docker project
+- `settings`: Project and development environment settings
 
 ### Example Repositories:
 
