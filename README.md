@@ -27,7 +27,7 @@
 **JavaScript Full Stack** \
 [**OneBitCode**](https://onebitcode.com/javascript) • Jan/2023 - Jan/2024 \
 Languages ​​and Technologies: `JavaScript`, `React`, `Node.js`, `TailwindCSS`, `Styled Component`, `Figma`,\
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Featured Projects: [Marvel Developer](https://marvel-community-client.vercel.app/), [Memory Game](<https://memorygamecardosofiles.netlify.app/)>)
 <br/>
 
 <!-- [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/) -->
