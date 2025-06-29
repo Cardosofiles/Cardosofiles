@@ -16,7 +16,50 @@
 - UI/UX Modern
 -->
 
-<img align="center" src="https://raw.githubusercontent.com/gist/Cardosofiles/26d425ca45d7ab1408e0add182146bdc/raw/af2b8a499a8b9923152a857b2ddb6e6b4133aafb/githubcard.svg" />
+<!-- <img align="center" src="https://raw.githubusercontent.com/gist/Cardosofiles/26d425ca45d7ab1408e0add182146bdc/raw/af2b8a499a8b9923152a857b2ddb6e6b4133aafb/githubcard.svg" /> -->
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<!-- [<img align="left" height="94px" width="94px" alt="OneBitCode" src="https://comunidade.onebitcode.com/assets/logo-dark-lg-07e31f7f.png"/>](https://comunidade.onebitcode.com/feed) -->
+
+**JavaScript Full Stack** \
+[**OneBitCode**](https://onebitcode.com/javascript) • Jan/2023 - jan/2024 \
+Languages ​​and Technologies: `JavaScript`, `React`, `Node.js`, `TailwindCSS`, `Styled Component`, `Figma`,\
+Featured Projects: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+<br/>
+
+<!-- [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/) -->
+
+**TypeScript, React** \
+[**Rocketseat**](https://rocketseat.com.br/) • Ago/2024 - Current \
+Languages ​​and Technologies: `TypeScript`, `TailwindCSS`, `React`\
+Featured Projects: [Professional Resume](https://cardosofiles.dev/), [Data analysis](https://finance-analysis-client.vercel.app/)
+<br/>
+
+<!-- [<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/) -->
+
+**Java** \
+[**Rocketseat**](https://rocketseat.com.br/) • Ago/2024 - Current \
+Languages ​​and Technologies: `Java`, `SpringBoot`, `PostgreSQL`, `JPA`, `API Dog` \
+Featured Projects: [Task Manager](https://github.com/Cardosofiles/task-manager-server)
+<br/>
+<br/>
+
+<!-- <p align="left">
+  I'm a Systems Analysis and Development student with a passion for technology and software development. I'm working on my path to becoming a Senior Full Stack Developer, focused on modern, scalable, and secure applications. I'm currently studying hard to master the Java ecosystem with Spring Boot on the backend and React + Next.js with TypeScript on the frontend. I'm also very interested in cybersecurity.
+</p> -->
+
+<!-- <p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p> -->
 
 ## 🛠 Technologies and Tools
 
