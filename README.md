@@ -88,13 +88,13 @@
 
 ### My repositories are organized using the following terminologies:
 
-- **web**: Independent front-end projects
-- **course**: Source code from my courses
-- **server**: API with database and web services for full-stack projects
-- **client**: Web application that interacts with the `server` API
-- **software**: Command line application to practice coding
-- **script**: Command Line Automation Script
-- **settings**: Settings for Java + Docker project
+- `web`: Independent front-end projects
+- `course`: Source code from my courses
+- `server`: API with database and web services for full-stack projects
+- `client`: Web application that interacts with the `server` API
+- `software`: Command line application to practice coding
+- `script`: Command Line Automation Script
+- `settings`: Settings for Java + Docker project
 
 ### Example Repositories:
 
