@@ -7,13 +7,19 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 ## 🎓 Education & Training
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 **Java Development** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Current_  
 `Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
 
 **TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Aug 2024 - Current_  
 `TypeScript` `React` `Next.js` `TailwindCSS` `Shadcn UI`
+
+**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
+`JavaScript` `React` `Node.js` `Styled Components` `Figma`
+
+**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
+`JavaScript` `React` `Node.js` `Styled Components` `Figma`
 
 **JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
 `JavaScript` `React` `Node.js` `Styled Components` `Figma`
