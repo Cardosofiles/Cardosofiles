@@ -37,15 +37,19 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 
 > My repositories follow a clear naming convention for better organization:
 
-| Prefix     | Purpose                            | Example                      |
-| ---------- | ---------------------------------- | ---------------------------- |
-| `web`      | Frontend projects                  | `minimalist-portfolio-web`   |
-| `server`   | Backend APIs                       | `goal-control-server`        |
-| `client`   | Frontend apps with API integration | `goal-control-client`        |
-| `course`   | Learning projects                  | `advanced-javascript-course` |
-| `software` | CLI applications                   | `bookstore-system-software`  |
-| `script`   | Automation scripts                 | `gitpush-script`             |
-| `settings` | Development configs                | `java-dockerized-settings`   |
+<div align="center">
+
+|     Prefix     |              Purpose               |           Example            |
+| :------------: | :--------------------------------: | :--------------------------: |
+|   **`web`**    |         Frontend projects          |  `minimalist-portfolio-web`  |
+|  **`server`**  |            Backend APIs            |    `goal-control-server`     |
+|  **`client`**  | Frontend apps with API integration |    `goal-control-client`     |
+|  **`course`**  |         Learning projects          | `advanced-javascript-course` |
+| **`software`** |          CLI applications          | `bookstore-system-software`  |
+|  **`script`**  |         Automation scripts         |       `gitpush-script`       |
+| **`settings`** |        Development configs         |  `java-dockerized-settings`  |
+
+</div>
 
 ## � Connect With Me
 
