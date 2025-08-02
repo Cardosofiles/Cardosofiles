@@ -6,6 +6,9 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 
 ## 🎓 Education & Training
 
+<div align="left">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="250px" align="right">
+
 **Java Development** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Current_  
 `Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
 
@@ -14,6 +17,10 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 
 **JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
 `JavaScript` `React` `Node.js` `Styled Components` `Figma`
+
+</div>
+
+<br clear="both"/>
 
 ## 🚀 Featured Projects
 
