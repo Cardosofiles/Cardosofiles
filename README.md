@@ -51,7 +51,7 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 
 </div>
 
-## � Connect With Me
+## 👨‍💻 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joão-batista-2b0442268">
