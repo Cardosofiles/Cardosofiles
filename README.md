@@ -24,7 +24,7 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,tailwind,postgres,mongodb,prisma,docker,git,github,figma,vscode&perline=8)
+![Skills](https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,tailwind,postgres,mongodb,prisma,docker,git,github,figma,vscode&perline=16)
 
 ## 📊 GitHub Analytics
 
