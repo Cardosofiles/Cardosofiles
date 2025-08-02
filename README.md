@@ -22,7 +22,7 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 `Node.js` `Fastify` `JWT` `Docker` `PostgreSQL`
 
 **Systems Analysis and Development** | [Unitri](https://unitri.edu.br/) | _Mar 2023 - Current_  
-`Programming Logic` `Database` `Web Applications` `Visual Studio Code` `Linux`
+`Programming Logic` `Database` `Web Applications` `Linux`
 
 </div>
 
