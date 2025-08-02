@@ -18,15 +18,13 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 **JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
 `JavaScript` `React` `Node.js` `Styled Components` `Figma`
 
-**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
-`JavaScript` `React` `Node.js` `Styled Components` `Figma`
+**Node Development** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Current_  
+`Node.js` `Fastify` `JWT` `Docker` `PostgreSQL`
 
-**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
-`JavaScript` `React` `Node.js` `Styled Components` `Figma`
+**Systems Analysis and Development** | [Unitri](https://unitri.edu.br/) | _Mar 2023 - Current_  
+`Programming Logic` `Database` `Web Applications` `Visual Studio Code` `Linux`
 
 </div>
-
-<br clear="both"/>
 
 ## 🚀 Featured Projects
 
