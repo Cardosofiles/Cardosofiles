@@ -7,7 +7,7 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 ## 🎓 Education & Training
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="250px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="300px" align="right">
 
 **Java Development** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Current_  
 `Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
