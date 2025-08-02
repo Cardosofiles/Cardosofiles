@@ -29,11 +29,11 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&width=300&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=330"/>
 </div>
 
-## � Repository Structure
+## 📂 Repository Structure
 
 > My repositories follow a clear naming convention for better organization:
 
