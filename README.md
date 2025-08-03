@@ -7,7 +7,9 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 ## 🎓 Education & Training
 
 <div align="left">
+<a href="https://cardosofiles.dev/" target="_blank">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+</a>
 
 **Java Development** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Current_  
 `Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
@@ -65,7 +67,7 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 ## 👨‍💻 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joão-batista-2b0442268">
+  <a href="https://www.linkedin.com/in/joaobatista-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:cardosofiles@outlook.com">
