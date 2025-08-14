@@ -54,11 +54,11 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 
 |     Prefix     |              Purpose               |           Example            |
 | :------------: | :--------------------------------: | :--------------------------: |
-|   **`web`**    |         Projetos Frontend          |  `minimalist-portfolio-web`  |
+|   **`web`**    |     Projetos Frontend Estático     |  `minimalist-portfolio-web`  |
 |  **`server`**  |            Backend APIs            |    `goal-control-server`     |
-|  **`client`**  | Frontend apps com integração de API|    `goal-control-client`     |
-|  **`course`**  |         Código fonte de Cursos     | `advanced-javascript-course` |
-| **`software`** |   Aplicações em linha de comando   | `bookstore-system-software`  |
+|  **`client`**  | App Frontend com integração de API |    `goal-control-client`     |
+|  **`course`**  |         Código Fonte de Cursos     | `advanced-javascript-course` |
+| **`software`** |   Aplicações em Linha de Comando   | `bookstore-system-software`  |
 |  **`script`**  |         Scripts de Automação       |       `gitpush-script`       |
 | **`settings`** | Configurações do Ambiente de Desev |  `java-dockerized-settings`  |
 
