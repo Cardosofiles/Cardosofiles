@@ -39,7 +39,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 
 ![Skills](https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,tailwind,postgres,mongodb,prisma,docker,git,github,figma,vscode&perline=16)
 
-## 📊 Análise do GitHub 
+## 📊 Análise do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=400" alt="GitHub Stats"/>
@@ -57,25 +57,30 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 |   **`web`**    |     Projetos Frontend Estático     |  `minimalist-portfolio-web`  |
 |  **`server`**  |            Backend APIs            |    `goal-control-server`     |
 |  **`client`**  | App Frontend com integração de API |    `goal-control-client`     |
-|  **`course`**  |         Código Fonte de Cursos     | `advanced-javascript-course` |
+|  **`course`**  |       Código Fonte de Cursos       | `advanced-javascript-course` |
 | **`software`** |   Aplicações em Linha de Comando   | `bookstore-system-software`  |
-|  **`script`**  |         Scripts de Automação       |       `gitpush-script`       |
+|  **`script`**  |        Scripts de Automação        |       `gitpush-script`       |
 | **`settings`** | Configurações do Ambiente de Desev |  `java-dockerized-settings`  |
 
 </div>
 
-## 👨‍💻 Conecte-se comigo
+## 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joaobatista-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cardosofiles@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/joaobaatissta/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
+<a href="mailto:cardosofiles@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/joaobatista-dev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Cardosofiles" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://cardosofiles.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
+</a>
+
 </div>
 
 ---
