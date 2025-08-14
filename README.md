@@ -1,4 +1,4 @@
-# Hello, I'm João Batista 👋
+### <h1 align="left" margin-top="2em">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Batista </h1>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=0969da&style=flat-square)](https://github.com/Cardosofiles)
 
