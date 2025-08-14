@@ -14,10 +14,10 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 **Análise e Desenvolvimento de Sistemas** | [Unitri](https://unitri.edu.br/) | _Mar 2025 - Atual_  
 `Lógica de Programação` `Banco de Dados` `Aplicações Web` `Linux`
 
-**Desenvolvimento com Java** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Atual_  
+**Java & Spring** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Atual_  
 `Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
 
-**Deseonvolvimento com Node** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Atual_  
+**Node & Fastify** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Atual_  
 `Node.js` `Fastify` `JWT` `Docker` `PostgreSQL`
 
 **TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Abr 2025_  
