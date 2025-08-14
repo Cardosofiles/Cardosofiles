@@ -11,20 +11,20 @@ Full Stack Developer focused on building modern, scalable applications with **Re
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </a>
 
+**Systems Analysis and Development** | [Unitri](https://unitri.edu.br/) | _Mar 2025- Current_  
+`Programming Logic` `Database` `Web Applications` `Linux`
+
 **Java Development** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Current_  
 `Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
-
-**TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Aug 2024 - Current_  
-`TypeScript` `React` `Next.js` `TailwindCSS` `Shadcn UI`
-
-**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
-`JavaScript` `React` `Node.js` `Styled Components` `Figma`
 
 **Node Development** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Current_  
 `Node.js` `Fastify` `JWT` `Docker` `PostgreSQL`
 
-**Systems Analysis and Development** | [Unitri](https://unitri.edu.br/) | _Mar 2023 - Current_  
-`Programming Logic` `Database` `Web Applications` `Linux`
+**TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Aug 2024 - Apr 2025_  
+`TypeScript` `React` `Next.js` `TailwindCSS` `Shadcn UI`
+
+**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
+`JavaScript` `React` `Node.js` `Styled Components` `Figma`
 
 </div>
 
