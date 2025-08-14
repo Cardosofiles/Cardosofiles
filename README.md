@@ -11,7 +11,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </a>
 
-**Análise e Desenvolvimento de Sistemas** | [Unitri](https://unitri.edu.br/) | _Mar 2025- Atual_  
+**Análise e Desenvolvimento de Sistemas** | [Unitri](https://unitri.edu.br/) | _Mar 2025 - Atual_  
 `Lógica de Programação` `Banco de Dados` `Aplicações Web` `Linux`
 
 **Desenvolvimento com Java** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Atual_  
@@ -60,7 +60,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 |  **`course`**  |         Código fonte de Cursos     | `advanced-javascript-course` |
 | **`software`** |   Aplicações em linha de comando   | `bookstore-system-software`  |
 |  **`script`**  |         Scripts de Automação       |       `gitpush-script`       |
-| **`settings`** | Configurações de Ambiente de Desev |  `java-dockerized-settings`  |
+| **`settings`** | Configurações do Ambiente de Desev |  `java-dockerized-settings`  |
 
 </div>
 
