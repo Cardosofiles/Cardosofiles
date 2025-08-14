@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=0969da&style=flat-square)](https://github.com/Cardosofiles)
 
-Full Stack Developer focused on building modern, scalable applications with **React** + **TypeScript** on the frontend and **Java Spring Boot** on the backend.
+Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis com **React** + **TypeScript** no frontend e **Node** + **Fastify** no backend.
 
 ## 🎓 Educação e Treinamento
 
