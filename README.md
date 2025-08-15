@@ -43,7 +43,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=400" alt="Most Used Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=380" alt="Most Used Languages"/>
 </div>
 
 ## 📂 Estrutura de repositórios
