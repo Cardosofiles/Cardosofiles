@@ -31,7 +31,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 ## 🚀 Projetos em destaque
 
 - [**Portfolio**](https://cardosofiles.dev/) - Site de currículo profissional
-- [**Finance Analysis**](https://finance-analysis-client.vercel.app/) - Data analysis dashboard
+- [**Gerenciamento de Clientes**](https://control-customers-client.vercel.app/) - CRUD API Celcoin
 - [**Marvel Developer**](https://marvel-community-client.vercel.app/) - Marvel community app
 - [**Task Manager**](https://github.com/Cardosofiles/task-manager-server) - Java Spring Boot API
 
