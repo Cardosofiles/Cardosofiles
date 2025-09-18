@@ -15,16 +15,16 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 `Lógica de Programação` `Banco de Dados` `Aplicações Web` `Linux`
 
 **Java & Spring** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Atual_  
-`Java` `Spring Boot` `PostgreSQL` `JPA` `Docker`
+`Maven` `JPA` `Lombok` `JUINIT` `BCRYPT`
 
 **Node & Fastify** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Atual_  
-`Node.js` `Fastify` `JWT` `Docker` `PostgreSQL`
+`Prisma` `CALS` `JWT` `Docker` `PostgreSQL`
 
 **TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Abr 2025_  
-`TypeScript` `React` `Next.js` `TailwindCSS` `Shadcn UI`
+`TailwindCSS` `Next.js` `Shadcn UI` `Axios` `TanStack Query` 
 
 **JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
-`JavaScript` `React` `Node.js` `Styled Components` `Figma`
+`Sass` `Styled Components` `Express` `Git` `Figma`
 
 </div>
 
