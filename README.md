@@ -1,4 +1,4 @@
-# <h1 align="left" margin-top="2em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a). </h1>
+# <h1 id="início" align="left" margin-top="2em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a). </h1>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=0969da&style=flat-square)](https://github.com/Cardosofiles)
 
@@ -21,7 +21,7 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 `Prisma` `CALS` `JWT` `Docker` `PostgreSQL`
 
 **TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Abr 2025_  
-`TailwindCSS` `Next.js` `Shadcn UI` `Axios` `TanStack Query` 
+`TailwindCSS` `Next.js` `Shadcn UI` `Axios` `TanStack Query`
 
 **JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
 `Sass` `Styled Components` `Express` `Git` `Figma`
@@ -87,4 +87,12 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 
 <div align="center">
   <i>⭐ Marque meus repositórios com uma estrela se você os achar interessantes!</i>
+</div>
+
+---
+
+<div align="right">
+
+[⬆️ Voltar ao topo](#início)
+
 </div>
