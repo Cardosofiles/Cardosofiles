@@ -1,8 +1,24 @@
-# <h1 id="início" align="left" margin-top="2em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a). </h1>
+<!-- # <h1 id="início" align="left" margin-top="2em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a). </h1>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=0969da&style=flat-square)](https://github.com/Cardosofiles)
 
-Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis com **React** + **TypeScript** no frontend e **Node** + **Fastify** no backend.
+Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis com **React** + **TypeScript** no frontend e **Node** + **Fastify** no backend. -->
+
+<div align="start" id="início">
+
+# 👋 Olá, eu sou João Batista!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning!" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Cardosofiles)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white)](https://cardosofiles.dev/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=E95420&style=for-the-badge)
+
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cardosofiles) -->
+
+</div>
 
 ## 🎓 Educação e Treinamento
 
@@ -64,9 +80,9 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
 
 </div>
 
-## 📫 Contato
+<!-- ## 📫 Contato -->
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="mailto:cardosofiles@outlook.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
@@ -81,7 +97,32 @@ Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis
   <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
 </a>
 
-</div>
+</div> -->
+
+---
+
+## 🎓 Conhecimentos & Interesses
+
+```javascript
+const Cardosofiles = {
+  code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["TailwindCSS", "Styled Components", "CSS Modules"],
+    },
+    backEnd: {
+      js: ["Node.js", "Fastify"],
+      java: ["Spring Boot", "Maven"],
+    },
+    databases: ["PostgreSQL", "SQLite", "Redis"],
+    devOps: ["Docker", "Vercel", "Git"],
+    tools: ["VS Code", "Postman", "Figma"],
+  },
+  currentFocus: "Desenvolvimento Full Stack e Arquitetura de Software",
+  funFact: "Acredito que código limpo é poesia digital! 🎨",
+};
+```
 
 ---
 
