@@ -132,8 +132,15 @@ const Cardosofiles = {
 
 ---
 
-<div align="right">
-
-[⬆️ Voltar ao topo](#início)
-
+<div align="center">
+  <table style="width: 100%;">
+    <tr>
+      <td align="left">
+        <img src="./assets/logomarca.png" alt="ilustração de um foguete" width="200px">
+      </td>
+      <td align="right">
+        <a href="#início">⬆️ Voltar ao topo</a>
+      </td>
+    </tr>
+  </table>
 </div>
