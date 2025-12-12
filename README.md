@@ -1,146 +1,87 @@
-<!-- # <h1 id="início" align="left" margin-top="2em">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Seja Bem-vindo(a). </h1>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=0969da&style=flat-square)](https://github.com/Cardosofiles)
-
-Desenvolvedor Full Stack focado em construir aplicações modernas e escaláveis com **React** + **TypeScript** no frontend e **Node** + **Fastify** no backend. -->
-
 <div align="start" id="início">
 
 # 👋 Olá, eu sou João Batista!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Open+Source+Enthusiast;Always+Learning!" alt="Typing SVG" />
+<!-- Título Dinâmico: Foca no que você entrega AGORA (Front) e no seu diferencial (Produto/Mkt) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Front-end+Developer;React+%26+Next.js+Specialist;Product+%26+Marketing+Background;Future+Java+Architect" alt="Typing SVG" />
 
+<br/>
+
+<!-- Badges Sociais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Cardosofiles)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white)](https://cardosofiles.dev/)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=E95420&style=for-the-badge)
 
-<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cardosofiles) -->
+---
+
+### 🚀 Sobre mim
+
+> **"De Profissional de Marketing a Engenheiro de Software."**
+> 
+> Minha transição de carreira me deu uma vantagem competitiva: não escrevo apenas código, construo **produtos digitais** focados na jornada do usuário e métricas de conversão.
+>
+> Atuo como **Desenvolvedor Front-end** especializado no ecossistema **React & Next.js**, criando interfaces modernas, acessíveis e de alta performance. Paralelamente, aprofundo meus conhecimentos em arquitetura de software robusta com **Java Spring Boot**, visando uma carreira Full Stack Sênior no futuro.
+
+---
 
 </div>
 
-## 🎓 Educação e Treinamento
+## 💎 Portfolio & Projetos em Destaque
 
-<div align="left">
-<a href="https://cardosofiles.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-</a>
+<div align="center">
 
-**Análise e Desenvolvimento de Sistemas** | [Unitri](https://unitri.edu.br/) | _Mar 2025 - Atual_  
-`Lógica de Programação` `Banco de Dados` `Aplicações Web` `Linux`
-
-**Java & Spring** | [Rocketseat](https://rocketseat.com.br/) | _Jan 2025 - Atual_  
-`Maven` `JPA` `Lombok` `JUINIT` `BCRYPT`
-
-**Node & Fastify** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Atual_  
-`Prisma` `CALS` `JWT` `Docker` `PostgreSQL`
-
-**TypeScript & React** | [Rocketseat](https://rocketseat.com.br/) | _Ago 2024 - Abr 2025_  
-`TailwindCSS` `Next.js` `Shadcn UI` `Axios` `TanStack Query`
-
-**JavaScript Full Stack** | [OneBitCode](https://onebitcode.com/javascript) | _Jan 2023 - Jan 2024_  
-`Sass` `Styled Components` `Express` `Git` `Figma`
+| Projeto | Visão Técnica & Negócio | Stack Principal |
+| :--- | :--- | :--- |
+| **[Cardosofiles Portfolio](https://cardosofiles.dev/)**<br>_(Sua Marca Pessoal)_ | **Performance & SEO:** Desenvolvido com foco em Core Web Vitals (Lighthouse 100/100) e identidade visual forte.<br>**Destaque:** Design System próprio e animações fluidas. | `Next.js 14` `TailwindCSS` `Framer Motion` `TypeScript` |
+| **[Marvel Community](https://marvel-community-client.vercel.app/)**<br>_(Consumo de API)_ | **Integração Complexa:** Aplicação que gerencia dados assíncronos de API pública com cacheamento inteligente.<br>**Destaque:** Tratamento de estados de carregamento/erro e UX polida. | `React` `TanStack Query` `Axios` `Radix UI` |
+| **[Task Manager API](https://github.com/Cardosofiles/task-manager-server)**<br>_(Backend Architecture)_ | **Engenharia de Software:** API RESTful robusta seguindo princípios de Clean Architecture.<br>**Destaque:** Implementação de segurança, validações e containerização. | `Java 17` `Spring Boot 3` `Docker` `PostgreSQL` |
 
 </div>
 
-## 🚀 Projetos em destaque
-
-- [**Portfolio**](https://cardosofiles.dev/) - Site de currículo profissional
-- [**Gerenciamento de Clientes**](https://control-customers-client.vercel.app/) - CRUD API Celcoin
-- [**Marvel Developer**](https://marvel-community-client.vercel.app/) - Marvel community app
-- [**Task Manager**](https://github.com/Cardosofiles/task-manager-server) - Java Spring Boot API
+<br>
 
 ## 🛠 Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=typescript,javascript,java,spring,react,nextjs,nodejs,tailwind,postgres,mongodb,prisma,docker,git,github,figma,vscode&perline=16)
-
-## 📊 Análise do GitHub
+> Ferramentas que utilizo para transformar ideias em código:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=380" alt="Most Used Languages"/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,figma,nodejs,prisma,postgres,docker,java,spring,git,github,vscode&perline=15" alt="Tech Stack" />
 </div>
 
-## 📂 Estrutura de repositórios
+## 📊 Métricas do GitHub
 
-> Meus repositórios seguem uma convenção de nomenclatura clara para melhor organização:
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=400" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=380" alt="Most Used Languages"/>
+</div>
+
+## 📂 Organização de Repositórios
+
+> Mantenho meus projetos padronizados para facilitar a navegação e code review:
 
 <div align="center">
 
-|     Prefix     |              Purpose               |           Example            |
+|     Prefixo    |              Objetivo               |           Exemplo Real            |
 | :------------: | :--------------------------------: | :--------------------------: |
-|   **`web`**    |     Projetos Frontend Estático     |  `minimalist-portfolio-web`  |
-|  **`server`**  |            Backend APIs            |    `goal-control-server`     |
-|  **`client`**  | App Frontend com integração de API |    `goal-control-client`     |
-|  **`course`**  |       Código Fonte de Cursos       | `advanced-javascript-course` |
-| **`software`** |   Aplicações em Linha de Comando   | `bookstore-system-software`  |
-|  **`script`**  |        Scripts de Automação        |       `gitpush-script`       |
-| **`settings`** | Configurações do Ambiente de Desev |  `java-dockerized-settings`  |
+|   **`web`**    |     Front-end Estático / SPA       |  `web-minimalist-portfolio`  |
+|  **`client`**  | Front-end Integrado (Consumo API)  |    `client-marvel-community`     |
+|  **`server`**  |            Backend APIs            |    `server-task-manager`     |
+| **`software`** |   Aplicações CLI / Desktop         | `software-bookstore-system`  |
+|  **`course`**  |       Estudos & Laboratórios       | `course-advanced-javascript` |
+| **`settings`** | Infraestrutura & Config            |  `settings-docker-env`  |
 
 </div>
 
-<!-- ## 📫 Contato -->
+## 🎓 Formação Acadêmica & Técnica
 
-<!-- <div align="center">
+* **Análise e Desenvolvimento de Sistemas** | Unitri (Em andamento)
+* **Ignite (Java & React Trills)** | Rocketseat
+* **Full Stack JavaScript** | OneBitCode
 
-<a href="mailto:cardosofiles@outlook.com">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/joaobatista-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Cardosofiles" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://cardosofiles.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio"/>
-</a>
-
-</div> -->
-
----
-
-## 🎓 Conhecimentos & Interesses
-
-```javascript
-const Cardosofiles = {
-  code: ["JavaScript", "TypeScript", "Java", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js"],
-      css: ["TailwindCSS", "Styled Components", "CSS Modules"],
-    },
-    backEnd: {
-      js: ["Node.js", "Fastify"],
-      java: ["Spring Boot", "Maven"],
-    },
-    databases: ["PostgreSQL", "SQLite", "Redis"],
-    devOps: ["Docker", "Vercel", "Git"],
-    tools: ["VS Code", "Postman", "Figma"],
-  },
-  currentFocus: "Desenvolvimento Full Stack e Arquitetura de Software",
-  funFact: "Acredito que código limpo é poesia digital! 🎨",
-};
-```
+> *Foco atual de estudos:* Arquitetura de Microsserviços, Segurança em APIs (Spring Security) e Next.js App Router Avançado.
 
 ---
 
 <div align="center">
-  <i>⭐ Marque meus repositórios com uma estrela se você os achar interessantes!</i>
-</div>
-
----
-
-<div align="center">
-  <table style="width: 100%;">
-    <tr>
-      <td align="left">
-        <img src="./assets/logomarca.png" alt="ilustração de um foguete" width="200px">
-      </td>
-      <td align="right">
-        <a href="#início">⬆️ Voltar ao topo</a>
-      </td>
-    </tr>
-  </table>
-</div>
+  
