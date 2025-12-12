@@ -84,4 +84,14 @@
 ---
 
 <div align="center">
-  
+
+<br>
+<i>⭐ Se algum projeto aqui te ajudou ou inspirou, deixe uma estrela!</i>
+<br><br>
+ 
+<a href="#início">
+  <img src="https://img.shields.io/badge/⬆_Voltar_ao_Topo-222222?style=flat-square" alt="Voltar ao topo">
+</a>
+
+</div>
+
