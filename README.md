@@ -33,7 +33,7 @@
 
 | Projeto | Visão Técnica & Negócio | Stack Principal |
 | :--- | :--- | :--- |
-| **[Cardosofiles Portfolio](https://cardosofiles.dev/)**<br>_(Minha Marca Pessoal)_ | **Performance & SEO:** Desenvolvido com foco em Core Web Vitals (Lighthouse 100/100) e identidade visual forte.<br>**Destaque:** Design System próprio e animações fluidas. | `Next.js 16` `TailwindCSS` `Framer Motion` `TypeScript` |
+| **[Cardosofiles Portfolio](https://portfolio.cardosofiles.dev/)**<br>_(Minha Marca Pessoal)_ | **Performance & SEO:** Desenvolvido com foco em Core Web Vitals (Lighthouse 100/100) e identidade visual forte.<br>**Destaque:** Design System próprio e animações fluidas. | `Next.js 16` `TailwindCSS` `Framer Motion` `TypeScript` |
 | **[Marvel Community](https://marvel-community-client.vercel.app/)**<br>_(Consumo de API)_ | **Integração Complexa:** Aplicação que gerencia dados assíncronos de API pública com cacheamento inteligente.<br>**Destaque:** Tratamento de estados de carregamento/erro e UX polida. | `React` `TanStack Query` `Axios` `Radix UI` |
 | **[Task Manager API](https://github.com/Cardosofiles/task-manager-server)**<br>_(Backend Architecture)_ | **Engenharia de Software:** API RESTful robusta seguindo princípios de Clean Architecture.<br>**Destaque:** Implementação de segurança, validações e containerização. | `Java 17` `Spring Boot 3` `Docker` `PostgreSQL` |
 
