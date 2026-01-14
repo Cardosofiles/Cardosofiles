@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou João Batista!
 
 <!-- Título Dinâmico: Foca no que você entrega AGORA (Front) e no seu diferencial (Produto/Mkt) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Front-end+Developer;React+%26+Next.js+Specialist;Product+%26+Engineer+;Future+Java+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Front-end+Developer;React+%26+Next.js+Specialist;Product+Engineer+;Future+Java+Architect" alt="Typing SVG" />
 
 <br/>
 
