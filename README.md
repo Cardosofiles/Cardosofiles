@@ -2,26 +2,26 @@
 
 # 👋 Olá, eu sou João Batista!
 
-<!-- Título Dinâmico: Foca no que você entrega AGORA (Front) e no seu diferencial (Produto/Mkt) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=480&lines=Front-end+Developer;React+%26+Next.js+Specialist;Product+Engineer+;Future+Java+Architect" alt="Typing SVG" />
+<!-- Título Dinâmico: Foco na senioridade, stack principal e visão de negócio -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Next.js+%26+React+Specialist;Java+Spring+Boot+Architect;Product-Minded+Engineer" alt="Typing SVG" />
 
 <br/>
 
 <!-- Badges Sociais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Cardosofiles)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)
 [![Portfólio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white)](https://cardosofiles.dev/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=E95420&style=for-the-badge)
 
 ---
 
 ### 🚀 Sobre mim
 
-> **"De Profissional de Marketing a Engenheiro de Software."**
-> 
-> Minha transição de carreira me deu uma vantagem competitiva: não escrevo apenas código, construo **produtos digitais** focados na jornada do usuário e métricas de conversão.
->
-> Atuo como **Desenvolvedor Front-end** especializado no ecossistema **React & Next.js**, criando interfaces modernas, acessíveis e de alta performance. Paralelamente, aprofundo meus conhecimentos em arquitetura de software robusta com **Java Spring Boot**, visando uma carreira Full Stack Sênior no futuro.
+**Engenheiro de Software Full Stack com forte visão de Produto e Negócios.**
+
+Minha trajetória profissional, que inclui uma transição estratégica do Marketing para a Engenharia de Software, me proporcionou um diferencial competitivo: **eu não escrevo apenas código, construo produtos digitais focados na jornada do usuário, escalabilidade e métricas de conversão.** 
+
+Atualmente, atuo como **Desenvolvedor Front-end Júnior**, combinando a criação de interfaces modernas, acessíveis e de altíssima performance no ecossistema **React & Next.js** com a consumo de arquiteturas de backend robustas e seguras. Trago a disciplina da operação e gestão corporativa para o código, com foco absoluto em Clean Architecture, testes consolidados e entrega contínua de valor.
 
 ---
 
@@ -33,21 +33,27 @@
 
 | Projeto | Visão Técnica & Negócio | Stack Principal |
 | :--- | :--- | :--- |
-| **[Cardosofiles Portfolio](https://portfolio.cardosofiles.dev/)**<br>_(Minha Marca Pessoal)_ | **Performance & SEO:** Desenvolvido com foco em Core Web Vitals (Lighthouse 100/100) e identidade visual forte.<br>**Destaque:** Design System próprio e animações fluidas. | `Next.js 16` `TailwindCSS` `Framer Motion` `TypeScript` |
-| **[Marvel Community](https://marvel-community-client.vercel.app/)**<br>_(Consumo de API)_ | **Integração Complexa:** Aplicação que gerencia dados assíncronos de API pública com cacheamento inteligente.<br>**Destaque:** Tratamento de estados de carregamento/erro e UX polida. | `React` `TanStack Query` `Axios` `Radix UI` |
-| **[Task Manager API](https://github.com/Cardosofiles/task-manager-server)**<br>_(Backend Architecture)_ | **Engenharia de Software:** API RESTful robusta seguindo princípios de Clean Architecture.<br>**Destaque:** Implementação de segurança, validações e containerização. | `Java 17` `Spring Boot 3` `Docker` `PostgreSQL` |
+| **SaaS Multi-tenant (Em Dev)**<br>_(Plataforma para Barbearias)_ | **Produto Real:** Sistema SaaS escalável com suporte a múltiplas franquias, agendamento via bot de WhatsApp (híbrido) e gestão de acessos (RBAC). | `Next.js` `Prisma` `Node.js` `PostgreSQL` |
+| **[Cardosofiles Portfolio](https://www.cardosofiles.com.br/pt)**<br>_(Identidade & Marca Pessoal)_ | **Performance & SEO:** Desenvolvido com foco absoluto em Core Web Vitals (Lighthouse 100/100).<br>**Destaque:** Design System próprio, UI minimalista e acessibilidade. | `Next.js 16` `Tailwind CSS` `TypeScript` |
+| **[Task Manager API](https://github.com/Cardosofiles/task-manager-server)**<br>_(Arquitetura Backend)_ | **Engenharia de Software:** API RESTful robusta e padronizada seguindo Clean Architecture.<br>**Destaque:** Spring Security (JWT), Jakarta Validation e Containerização. | `Java 17` `Spring Boot 3` `Docker` |
+| **[Marvel Community](https://marvel-community-client.vercel.app/)**<br>_(Integração Front-end)_ | **Gerenciamento de Estado:** Consumo complexo de API pública com cacheamento inteligente.<br>**Destaque:** Tratamento assíncrono avançado (TanStack) e UX polida. | `React` `TanStack Query` `Radix UI` |
 
 </div>
 
 <br>
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Ferramentas
 
-> Ferramentas que utilizo para transformar ideias em código:
+> Tecnologias que utilizo diariamente para transformar regras de negócios em software escalável:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,figma,nodejs,prisma,postgres,docker,java,spring,git,github,vscode&perline=15" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,nodejs,postgres,docker,java,spring,linux,bash,git,github,vscode,figma&perline=16" alt="Tech Stack" />
 </div>
+
+- **Front-end:** TypeScript, ReactJS, Next.js (App Router), Tailwind CSS, Shadcn UI, Radix UI.
+- **Back-end:** Java 17+, Spring Boot 3+ (Spring Web, Data JPA, Security), Node.js, RESTful APIs.
+- **Dados & Autenticação:** PostgreSQL, Prisma ORM, Better Auth, JWT, Flyway/Liquibase.
+- **DevOps, Infra & Testes:** Docker, Vercel, Linux/WSL, Bash/PowerShell, JUnit 5, Mockito.
 
 ## 📊 Métricas do GitHub
 
@@ -58,7 +64,7 @@
 
 ## 📂 Organização de Repositórios
 
-> Mantenho meus projetos padronizados para facilitar a navegação e code review:
+> Acredito que um código limpo começa com um repositório bem estruturado. Mantenho meus projetos padronizados para facilitar a navegação e o Code Review:
 
 <div align="center">
 
@@ -69,31 +75,28 @@
 |  **`server`**  |            Backend APIs            |    `server-task-manager`     |
 | **`software`** |   Aplicações CLI / Desktop         | `software-bookstore-system`  |
 |  **`course`**  |       Estudos & Laboratórios       | `course-advanced-javascript` |
-| **`settings`** | Infraestrutura & Config            |  `settings-docker-env`  |
+| **`settings`** | Infraestrutura & Configurações     |  `settings-docker-env`       |
 
 </div>
 
-## 🎓 Formação Acadêmica & Técnica
+## 🎓 Formação & Foco de Estudos
 
 * **Análise e Desenvolvimento de Sistemas** | Unitri (Em andamento)
-* **Ignite (Java & React Trills)** | Rocketseat
-* **Full Stack JavaScript** | OneBitCode
+* **Formação Full Stack & Especializações** | Rocketseat (Ignite Java & React) & OneBitCode
 
-> *Foco atual de estudos:* Arquitetura de Microsserviços, Segurança em APIs (Spring Security) e Next.js App Router Avançado.
+> **🔬 Foco Atual de Desenvolvimento e Pesquisa:**
+> Arquitetura de Microsserviços, Segurança em APIs (Spring Security / JWT), Next.js App Router Avançado, Containerização (Docker) e Segurança da Informação (Ethical Hacking).
 
 ---
 
 <div align="center">
 
 <br>
-<i>⭐ Se algum projeto aqui te ajudou ou inspirou, deixe uma estrela!</i>
+<i>⭐ Se algum dos meus projetos ou padrões arquiteturais te inspirou, fique à vontade para deixar uma estrela!</i>
 <br><br>
  
 <a href="#início">
-  
   <img src="https://img.shields.io/badge/⬆_Voltar_ao_Topo-222222?style=flat-square" alt="Voltar ao topo">
-
 </a>
 
 </div>
-
