@@ -1,102 +1,186 @@
-<div align="start" id="início">
+<div align="center">
 
-# 👋 Olá, eu sou João Batista!
-
-<!-- Título Dinâmico: Foco na senioridade, stack principal e visão de negócio -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;Next.js+%26+React+Specialist;Java+Spring+Boot+Architect;Product-Minded+Engineer" alt="Typing SVG" />
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header" />
+</picture>
 
 <br/>
 
-<!-- Badges Sociais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)
-[![Portfólio](https://img.shields.io/badge/Portfólio-222222?style=for-the-badge&logo=about.me&logoColor=white)](https://cardosofiles.dev/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=E95420&style=for-the-badge)
+```
+   ██████╗ █████╗ ██████╗ ██████╗  ██████╗ ███████╗ ██████╗
+  ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝██╔═══██╗
+  ██║     ███████║██████╔╝██║  ██║██║   ██║███████╗██║   ██║
+  ██║     ██╔══██║██╔══██╗██║  ██║██║   ██║╚════██║██║   ██║
+  ╚██████╗██║  ██║██║  ██║██████╔╝╚██████╔╝███████║╚██████╔╝
+   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝
+  ███████╗██╗██╗      ███████╗███████╗
+  ██╔════╝██║██║      ██╔════╝██╔════╝
+  █████╗  ██║██║      █████╗  ███████╗
+  ██╔══╝  ██║██║      ██╔══╝  ╚════██║
+  ██║     ██║███████╗ ███████╗███████║
+  ╚═╝     ╚═╝╚══════╝ ╚══════╝╚══════╝
+```
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=18&duration=4000&pause=1200&color=6E7681&center=true&vCenter=true&width=480&lines=Full+Stack+Engineer;React+%26+Next.js+%2F+Java+Spring+Boot;Product-Minded+%E2%80%94+Design-Driven" alt="Typing SVG" />
 
-### 🚀 Sobre mim
+<br/>
 
-**Engenheiro de Software Full Stack com forte visão de Produto e Negócios.**
-
-Minha trajetória profissional, que inclui uma transição estratégica do Marketing para a Engenharia de Software, me proporcionou um diferencial competitivo: **eu não escrevo apenas código, construo produtos digitais focados na jornada do usuário, escalabilidade e métricas de conversão.** 
-
-Atualmente, atuo como **Desenvolvedor Front-end Júnior**, combinando a criação de interfaces modernas, acessíveis e de altíssima performance no ecossistema **React & Next.js** com a consumo de arquiteturas de backend robustas e seguras. Trago a disciplina da operação e gestão corporativa para o código, com foco absoluto em Clean Architecture, testes consolidados e entrega contínua de valor.
-
----
-
-</div>
-
-## 💎 Portfolio & Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Visão Técnica & Negócio | Stack Principal |
-| :--- | :--- | :--- |
-| **SaaS Multi-tenant (Em Dev)**<br>_(Plataforma para Barbearias)_ | **Produto Real:** Sistema SaaS escalável com suporte a múltiplas franquias, agendamento via bot de WhatsApp (híbrido) e gestão de acessos (RBAC). | `Next.js` `Prisma` `Node.js` `PostgreSQL` |
-| **[Cardosofiles Portfolio](https://www.cardosofiles.com.br/pt)**<br>_(Identidade & Marca Pessoal)_ | **Performance & SEO:** Desenvolvido com foco absoluto em Core Web Vitals (Lighthouse 100/100).<br>**Destaque:** Design System próprio, UI minimalista e acessibilidade. | `Next.js 16` `Tailwind CSS` `TypeScript` |
-| **[Task Manager API](https://github.com/Cardosofiles/task-manager-server)**<br>_(Arquitetura Backend)_ | **Engenharia de Software:** API RESTful robusta e padronizada seguindo Clean Architecture.<br>**Destaque:** Spring Security (JWT), Jakarta Validation e Containerização. | `Java 17` `Spring Boot 3` `Docker` |
-| **[Marvel Community](https://marvel-community-client.vercel.app/)**<br>_(Integração Front-end)_ | **Gerenciamento de Estado:** Consumo complexo de API pública com cacheamento inteligente.<br>**Destaque:** Tratamento assíncrono avançado (TanStack) e UX polida. | `React` `TanStack Query` `Radix UI` |
+[![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
+[![](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://cardosofiles.dev/)&nbsp;
+[![](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
+![](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat-square&label=profile+views)
 
 </div>
 
-<br>
+<br/>
 
-## 🛠 Tech Stack & Ferramentas
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> Tecnologias que utilizo diariamente para transformar regras de negócios em software escalável:
+<br/>
+
+## &nbsp;João Batista &nbsp;—&nbsp; Software Engineer
+
+Transicionei do Marketing para Engenharia de Software com um objetivo claro: **construir produtos, não apenas sistemas**. Combino experiência com React/Next.js e Java Spring Boot a uma visão orientada a produto, performance e experiência do usuário.
+
+Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetura back-end robusta e segura.
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## &nbsp;Projetos em Destaque
+
+<br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>◈ &nbsp;SaaS Multi-tenant</h3>
+      <sup>EM DESENVOLVIMENTO</sup>
+      <br/><br/>
+      Plataforma para barbearias com agendamento via WhatsApp, painel multi-franquia e controle de acesso por papel (RBAC).
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>◈ &nbsp;Cardosofiles Portfolio</h3>
+      <sup><a href="https://www.cardosofiles.com.br/pt">cardosofiles.com.br ↗</a></sup>
+      <br/><br/>
+      Design system próprio, otimização para Core Web Vitals (Lighthouse 100), SEO e acessibilidade como prioridade desde o início.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>◈ &nbsp;Task Manager API</h3>
+      <sup><a href="https://github.com/Cardosofiles/task-manager-server">github.com ↗</a></sup>
+      <br/><br/>
+      API RESTful com Clean Architecture, autenticação stateless via JWT, validação com Jakarta Bean Validation e containerização.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>◈ &nbsp;Marvel Community</h3>
+      <sup><a href="https://marvel-community-client.vercel.app/">marvel-community.vercel.app ↗</a></sup>
+      <br/><br/>
+      Consumo de API pública com cacheamento inteligente, paginação e tratamento assíncrono avançado. UX focada em performance.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## &nbsp;Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,nodejs,postgres,docker,java,spring,linux,bash,git,github,vscode,figma&perline=16" alt="Tech Stack" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,java,spring,postgres,docker,git,linux,figma&perline=12" />
+
+<br/><br/>
+
+|    Camada    | Tecnologias                                                                   |
+| :----------: | :---------------------------------------------------------------------------- |
+| **Frontend** | TypeScript · React · Next.js App Router · Tailwind CSS · Shadcn UI · Radix UI |
+| **Backend**  | Java 17+ · Spring Boot 3 · Spring Security · Node.js · RESTful APIs           |
+|   **Data**   | PostgreSQL · Prisma ORM · Better Auth · JWT · Flyway                          |
+|  **DevOps**  | Docker · Vercel · Linux/WSL · JUnit 5 · Mockito                               |
+
 </div>
 
-- **Front-end:** TypeScript, ReactJS, Next.js (App Router), Tailwind CSS, Shadcn UI, Radix UI.
-- **Back-end:** Java 17+, Spring Boot 3+ (Spring Web, Data JPA, Security), Node.js, RESTful APIs.
-- **Dados & Autenticação:** PostgreSQL, Prisma ORM, Better Auth, JWT, Flyway/Liquibase.
-- **DevOps, Infra & Testes:** Docker, Vercel, Linux/WSL, Bash/PowerShell, JUnit 5, Mockito.
+<br/>
 
-## 📊 Métricas do GitHub
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&card_width=400" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&card_width=380" alt="Most Used Languages"/>
-</div>
+<br/>
 
-## 📂 Organização de Repositórios
-
-> Acredito que um código limpo começa com um repositório bem estruturado. Mantenho meus projetos padronizados para facilitar a navegação e o Code Review:
+## &nbsp;Métricas
 
 <div align="center">
+<br/>
 
-|     Prefixo    |              Objetivo               |           Exemplo Real            |
-| :------------: | :--------------------------------: | :--------------------------: |
-|   **`web`**    |     Front-end Estático / SPA       |  `web-minimalist-portfolio`  |
-|  **`client`**  | Front-end Integrado (Consumo API)  |    `client-marvel-community`     |
-|  **`server`**  |            Backend APIs            |    `server-task-manager`     |
-| **`software`** |   Aplicações CLI / Desktop         | `software-bookstore-system`  |
-|  **`course`**  |       Estudos & Laboratórios       | `course-advanced-javascript` |
-| **`settings`** | Infraestrutura & Configurações     |  `settings-docker-env`       |
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=cardosofiles&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=6E7681&text_color=6E7681&include_all_commits=true" />
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardosofiles&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=6E7681" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cardosofiles&theme=github-compact&bg_color=0d1117&color=6E7681&line=30363d&point=6E7681&hide_border=true&area=true&area_color=161b22" />
 
 </div>
 
-## 🎓 Formação & Foco de Estudos
+<br/>
 
-* **Análise e Desenvolvimento de Sistemas** | Unitri (Em andamento)
-* **Formação Full Stack & Especializações** | Rocketseat (Ignite Java & React) & OneBitCode
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-> **🔬 Foco Atual de Desenvolvimento e Pesquisa:**
-> Arquitetura de Microsserviços, Segurança em APIs (Spring Security / JWT), Next.js App Router Avançado, Containerização (Docker) e Segurança da Informação (Ethical Hacking).
+<br/>
 
----
+## &nbsp;Formação
+
+- **Análise e Desenvolvimento de Sistemas** — Unitri _(em andamento)_
+- **Ignite Java & Ignite React** — Rocketseat
+- **Formação Full Stack** — OneBitCode
+
+**Foco atual →** Microsserviços · Spring Security · Next.js App Router · Docker · Segurança da Informação
+
+<br/>
+
+## &nbsp;Convenção de Repositórios
+
+|  Prefixo   | Uso                            |
+| :--------: | :----------------------------- |
+|   `web`    | Front-end estático / SPA       |
+|  `client`  | Front-end com consumo de API   |
+|  `server`  | Back-end / APIs REST           |
+| `software` | CLI / Desktop                  |
+|  `course`  | Estudos e laboratórios         |
+| `settings` | Infraestrutura e configurações |
+| `scripts`  | Instalação de recursos na CLI  |
+
+<br/>
 
 <div align="center">
 
-<br>
-<i>⭐ Se algum dos meus projetos ou padrões arquiteturais te inspirou, fique à vontade para deixar uma estrela!</i>
-<br><br>
- 
-<a href="#início">
-  <img src="https://img.shields.io/badge/⬆_Voltar_ao_Topo-222222?style=flat-square" alt="Voltar ao topo">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer" />
+
+<sub>Se algum projeto ou padrão arquitetural te inspirou, uma ⭐ é sempre bem-vinda.</sub>
 
 </div>
