@@ -26,7 +26,7 @@
 <br/>
 
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
-[![](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://cardosofiles.dev/)&nbsp;
+[![](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
 [![](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat-square&label=profile+views)
 
