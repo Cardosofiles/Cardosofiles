@@ -163,6 +163,12 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
 
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+<div align="center">
+
 ## &nbsp;Convenção de Repositórios
 
 |  Prefixo   | Uso                            | Exemplo de Repositório                                                                   |
@@ -175,6 +181,8 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
 | `settings` | Infraestrutura e configurações | [linux-terminal-settings](https://github.com/Cardosofiles/linux-terminal-settings)       |
 | `scripts`  | Instalação de recursos na CLI  | [nextapp-prettierrc-script](https://github.com/Cardosofiles/nextapp-prettierrc-script)   |
 |    `bd`    | Banco de dados conteinerizado  | [mysql-container-db](https://github.com/Cardosofiles/mysql-container-db)                 |
+
+</div>
 
 <br/>
 
