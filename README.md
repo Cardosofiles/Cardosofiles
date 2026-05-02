@@ -165,15 +165,16 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
 
 ## &nbsp;Convenção de Repositórios
 
-|  Prefixo   | Uso                            |
-| :--------: | :----------------------------- |
-|   `web`    | Front-end estático / SPA       |
-|  `client`  | Front-end com consumo de API   |
-|  `server`  | Back-end / APIs REST           |
-| `software` | CLI / Desktop                  |
-|  `course`  | Estudos e laboratórios         |
-| `settings` | Infraestrutura e configurações |
-| `scripts`  | Instalação de recursos na CLI  |
+|  Prefixo   | Uso                            | Exemplo de Repositório                                                                   |
+| :--------: | :----------------------------- | :--------------------------------------------------------------------------------------- |
+|   `web`    | Front-end estático / SPA       | [minimalist-portifolio-web](https://github.com/Cardosofiles/minimalist-portifolio-web)   |
+|  `client`  | Front-end com consumo de API   | [github-explorer-client](https://github.com/Cardosofiles/github-explorer-client)         |
+|  `server`  | Back-end / APIs REST           | [nubank-challenge-server](https://github.com/Cardosofiles/nubank-challenge-server)       |
+| `software` | CLI / Desktop                  | [checking-account-software](https://github.com/Cardosofiles/checking-account-software)   |
+|  `course`  | Estudos e laboratórios         | [advanced-javascript-course](https://github.com/Cardosofiles/advanced-javascript-course) |
+| `settings` | Infraestrutura e configurações | [linux-terminal-settings](https://github.com/Cardosofiles/linux-terminal-settings)       |
+| `scripts`  | Instalação de recursos na CLI  | [nextapp-prettierrc-script](https://github.com/Cardosofiles/nextapp-prettierrc-script)   |
+|    `bd`    | Banco de dados conteinerizado  | [mysql-container-db](https://github.com/Cardosofiles/mysql-container-db)                 |
 
 <br/>
 
