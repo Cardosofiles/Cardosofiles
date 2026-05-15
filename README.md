@@ -337,7 +337,7 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
       <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /> -->
     </td>
     <td width="50%" valign="top" style="padding: 12px">
-      <h3>◈ &nbsp;bd</h3>
+      <h3>◈ &nbsp;db</h3>
       <sup>
         <a href="https://github.com/Cardosofiles/mysql-container-db">
           mysql-container-db ↗
