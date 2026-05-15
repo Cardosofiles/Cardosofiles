@@ -110,7 +110,7 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
 
 ## &nbsp;Stack
 
-<div align="center">
+<div>
 <br/>
 
 <table border="0" cellspacing="0" cellpadding="0">
@@ -226,7 +226,7 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
 
 <br/>
 
-<div align="center">
+<div>
 
 ## &nbsp;Convenção de Repositórios
 
