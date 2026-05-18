@@ -117,11 +117,11 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
   <tr>
     <td width="50%" valign="top" style="padding: 12px">
       <h3>◈ &nbsp;Front-end</h3>
-      <sup>
+      <!-- <sup>
         <a href="https://e.commerce.cardosofiles.com.br/">
           e.commerce.cardosofiles.com.br ↗
         </a>
-      </sup>
+      </sup> -->
       <br /><br />
       Construo interfaces modernas com JS/TS, React, Next.js, Tailwind,
       Axios e TanStack Query — do design ao dado, com precisão.
@@ -134,11 +134,11 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
     </td>
     <td width="50%" valign="top" style="padding: 12px">
       <h3>◈ &nbsp;Back-end</h3>
-      <sup>
+      <!-- <sup>
         <a href="https://estudio.cardosofiles.com.br/">
           estudio.cardosofiles.com.br ↗
         </a>
-      </sup>
+      </sup> -->
       <br /><br />
       Java, Spring, Fastify, Prisma, PostgreSQL, Redis, Better Auth e CASL:
       backend seguro, tipado e pronto para escalar.
@@ -152,11 +152,11 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
   <tr>
     <td width="50%" valign="top" style="padding: 12px">
       <h3>◈ &nbsp;Dados</h3>
-      <sup>
+      <!-- <sup>
         <a href="https://www.cardosofiles.com.br/pt">
           cardosofiles.com.br ↗
         </a>
-      </sup>
+      </sup> -->
       <br /><br />
       PostgreSQL, MongoDB, Prisma, Redis e Supabase: modelos flexíveis,
       persistência segura, cache rápido e dados prontos para escalar.
@@ -168,11 +168,11 @@ Atualmente atuando como **Desenvolvedor Front-end** enquanto aprofundo arquitetu
     </td>
     <td width="50%" valign="top" style="padding: 12px">
       <h3>◈ &nbsp;DevOps & Cloud</h3>
-      <sup>
+      <!-- <sup>
         <a href="https://github.com/Cardosofiles/customer-management-web">
           github.com ↗
         </a>
-      </sup>
+      </sup> -->
       <br /><br />
       Git/GitHub/GitLab, Docker, Kubernetes, Prometheus e Grafana:
       versionamento, containers, orquestração e monitoramento em escala.
