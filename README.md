@@ -1,5 +1,4 @@
-<table width="100%"><tr>
-<td valign="middle" width="58%">
+<img src="dev/dev.png" width="280" align="right" />
 
 ## João Batista
 
@@ -11,10 +10,3 @@ Do Marketing à Engenharia — com um objetivo claro: **construir produtos que i
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
 ![](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat-square&label=views)
-
-</td>
-<td valign="middle" align="right" width="42%">
-<img src="assets/dev.png" width="280" />
-</td>
-</tr>
-</table>
