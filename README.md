@@ -1,4 +1,4 @@
-<img src="dev/dev.png" width="280" align="right" />
+<img src="assets/dev.png" width="280" align="right" />
 
 ## João Batista
 
