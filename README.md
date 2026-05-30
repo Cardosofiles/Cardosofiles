@@ -62,6 +62,8 @@ Do Marketing à Engenharia — com um objetivo claro: **construir produtos que i
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Upstash](https://img.shields.io/badge/-Upstash-00E9A3?style=flat&logo=upstash&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat&logo=neon&logoColor=white)
 
 <!-- Tools -->
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](#)&nbsp;
