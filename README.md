@@ -15,7 +15,7 @@
   ╚═╝     ╚═╝╚══════╝ ╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=1200&color=6E7681&width=380&lines=Front-end+Engineer;React+%2F+Next.js+%26+Node+Fastify+Zod;Product-Minded+%E2%80%94+Design-Driven" alt="" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=1200&color=6E7681&width=380&lines=Front-end+Engineer;React+%2F+Next.js+%26+Node+Fastify;Product-Minded+%E2%80%94+Design-Driven" alt="" />
 
 Do Marketing à Engenharia — com um objetivo claro: **construir produtos que importam**, não apenas sistemas que funcionam.
 
