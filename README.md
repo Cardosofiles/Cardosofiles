@@ -22,7 +22,7 @@ Do Marketing à Engenharia — com um objetivo claro: **construir produtos que i
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=views)
+![Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=Profile+Views)
 
 ### Technologies
 
