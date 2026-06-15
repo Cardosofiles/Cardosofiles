@@ -1,5 +1,6 @@
 ## João Batista
 
+<!--
 ```
    ██████╗ █████╗ ██████╗ ██████╗  ██████╗ ███████╗ ██████╗
   ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝██╔═══██╗
@@ -14,6 +15,9 @@
   ██║     ██║███████╗ ███████╗███████║
   ╚═╝     ╚═╝╚══════╝ ╚══════╝╚══════╝
 ```
+-->
+
+<img src="https://gist.githubusercontent.com/Cardosofiles/341c676ea6aa7d423b98abba541f1829/raw/banner-github-color.svg" alt="Banner GitHub" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=1200&color=6E7681&width=380&lines=Front-end+Engineer;React+%2F+Next.js+%26+Node+Fastify;Product-Minded+%E2%80%94+Design-Driven" alt="" />
 
