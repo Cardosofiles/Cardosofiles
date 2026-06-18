@@ -3,8 +3,7 @@
 
 ### Desenvolvedor Web • React · Next.js · TypeScript
 
-Construo interfaces rápidas, acessíveis e orientadas a produto.
-**Front-end Engineer** com olhar de UX, Core Web Vitals e SEO — e background em marketing que vira visão de negócio.
+> Construo interfaces rápidas, acessíveis e orientadas a produto. **Front-end Engineer** com olhar de UX, Core Web Vitals e SEO — e background em marketing que vira visão de negócio.
 
 ## 🚀 Sobre mim
 
@@ -35,7 +34,7 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 <!-- <img src="https://gist.githubusercontent.com/Cardosofiles/f73cb30c7f4e34d0f6fec03fd375650a/raw/c50353eb64acc865cfefa5fc50cfc1feedfa38d8/banner-github.svg" alt="Banner GitHub" /> -->
 
 
-Do Marketing à Engenharia — com um objetivo claro: **construir produtos que importam**, não apenas sistemas que funcionam.
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
