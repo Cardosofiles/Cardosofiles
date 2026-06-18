@@ -1,4 +1,19 @@
-## João Batista
+# Olá, eu sou o João Batista 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=1200&color=6E7681&width=380&lines=Front-end+Engineer;React+%2F+Next.js+%26+Node+Fastify;Product-Minded+%E2%80%94+Design-Driven" alt="" />
+
+### Desenvolvedor Web • React · Next.js · TypeScript
+
+Construo interfaces rápidas, acessíveis e orientadas a produto.
+**Front-end Engineer** com olhar de UX, Core Web Vitals e SEO — e background em marketing que vira visão de negócio.
+
+## 🚀 Sobre mim
+
+Sou focado no ecossistema **React + TypeScript**, transformando ideias em produtos web reais — do design no Figma à aplicação em produção. Gosto de código tipado de ponta a ponta, arquitetura que escala e detalhes de UX que fazem diferença na conversão.
+
+- 🔭 Atualmente aprofundando **Next.js (App Router)**, performance e arquitetura full stack
+- 🌱 Estudando **Centro Universitário do Triângulo (Unitri)**
+- 💼 **Aberto a oportunidades** como Desenvolvedor Web / Front-end Engineer (React.js)
+- ⚡ Antes de programar, atuei com marketing — por isso penso no usuário e no negócio, não só no componente
 
 <!--
 ```
@@ -17,9 +32,8 @@
 ```
 -->
 
-<img src="https://gist.githubusercontent.com/Cardosofiles/f73cb30c7f4e34d0f6fec03fd375650a/raw/c50353eb64acc865cfefa5fc50cfc1feedfa38d8/banner-github.svg" alt="Banner GitHub" />
+<!-- <img src="https://gist.githubusercontent.com/Cardosofiles/f73cb30c7f4e34d0f6fec03fd375650a/raw/c50353eb64acc865cfefa5fc50cfc1feedfa38d8/banner-github.svg" alt="Banner GitHub" /> -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=1200&color=6E7681&width=380&lines=Front-end+Engineer;React+%2F+Next.js+%26+Node+Fastify;Product-Minded+%E2%80%94+Design-Driven" alt="" />
 
 Do Marketing à Engenharia — com um objetivo claro: **construir produtos que importam**, não apenas sistemas que funcionam.
 
