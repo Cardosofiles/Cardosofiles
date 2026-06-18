@@ -12,7 +12,7 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 - 🔭 Atualmente aprofundando **Next.js (App Router)**, performance e arquitetura full stack
 - 🌱 Estudando **Centro Universitário do Triângulo (Unitri)**
 - 💼 **Aberto a oportunidades** como Desenvolvedor Web / Front-end Engineer (React.js)
-- ⚡ Antes de programar, atuei com marketing — por isso penso no usuário e no negócio, não só no componente
+- ⚡ Antes de programar, atuei com logística e marketing — por isso penso no usuário e no negócio, não só no componente
 
 <!--
 ```
