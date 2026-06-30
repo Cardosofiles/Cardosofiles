@@ -1,5 +1,9 @@
 # Olá, eu sou o João Batista 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=300&size=15&duration=4000&pause=1200&color=6E7681&width=380&lines=Front-end+Engineer;React+%2F+Next.js+%26+Node+Fastify;Product-Minded+%E2%80%94+Design-Driven" alt="" />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=Profile+Views)
 
 ### Desenvolvedor Web • React · Next.js · TypeScript
 
@@ -7,39 +11,12 @@
 
 ## 🚀 Sobre mim
 
-Sou focado no ecossistema **React + TypeScript**, transformando ideias em produtos web reais — do design no Figma à aplicação em produção. Gosto de código tipado de ponta a ponta, arquitetura que escala e detalhes de UX que fazem diferença na conversão.
+Sou focado no ecossistema **React + TypeScript**, transformando ideias em produtos web reais, do design no Figma à aplicação em produção. Gosto de código tipado de ponta a ponta, arquitetura que escala e detalhes de UX que fazem diferença na conversão.
 
-- 🔭 Atualmente aprofundando **Next.js (App Router)**, performance e arquitetura full stack
+- 🔭 Atualmente aprofundando **NestJS + arquitetura backend**, performance e boas práticas em aplicações escaláveis
 - 🌱 Estudando **Centro Universitário do Triângulo (Unitri)**
 - 💼 **Aberto a oportunidades** como Desenvolvedor Web / Front-end Engineer (React.js)
-- ⚡ Antes de programar, atuei com logística e marketing — por isso penso no usuário e no negócio, não só no componente
-
-<!--
-```
-   ██████╗ █████╗ ██████╗ ██████╗  ██████╗ ███████╗ ██████╗
-  ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔════╝██╔═══██╗
-  ██║     ███████║██████╔╝██║  ██║██║   ██║███████╗██║   ██║
-  ██║     ██╔══██║██╔══██╗██║  ██║██║   ██║╚════██║██║   ██║
-  ╚██████╗██║  ██║██║  ██║██████╔╝╚██████╔╝███████║╚██████╔╝
-   ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝ ╚═════╝
-  ███████╗██╗██╗      ███████╗███████╗
-  ██╔════╝██║██║      ██╔════╝██╔════╝
-  █████╗  ██║██║      █████╗  ███████╗
-  ██╔══╝  ██║██║      ██╔══╝  ╚════██║
-  ██║     ██║███████╗ ███████╗███████║
-  ╚═╝     ╚═╝╚══════╝ ╚══════╝╚══════╝
-```
--->
-
-<!-- <img src="https://gist.githubusercontent.com/Cardosofiles/f73cb30c7f4e34d0f6fec03fd375650a/raw/c50353eb64acc865cfefa5fc50cfc1feedfa38d8/banner-github.svg" alt="Banner GitHub" /> -->
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
-![Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=Profile+Views)
+- ⚡ Antes de programar, atuei com logística e marketing, por isso penso no usuário e no negócio, não só no componente
 
 ### Technologies
 
@@ -86,4 +63,5 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 [![Apidog](https://img.shields.io/badge/-Apidog-F44A53?style=flat&logo=apidog&logoColor=white)](#)&nbsp;
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
