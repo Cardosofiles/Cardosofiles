@@ -1,26 +1,26 @@
-# 👋 Olá, eu sou o João Batista 
+# 👋 Olá, eu sou o João Batista
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=Profile+Views)
 
-### Desenvolvedor Web • React · Next.js · Node.js · TypeScript
+### Full-Stack Engineer • TypeScript · Next.js · NestJS · Fastify · DevSecOps
 
-> Construo interfaces rápidas, acessíveis e orientadas a produto. **Front-end Engineer** com olhar de UX, Core Web Vitals e SEO — e background em marketing que vira visão de negócio.
+> Desenvolvo aplicações web full-stack de ponta a ponta — de APIs RESTful seguras e bem arquitetadas a interfaces performáticas com SEO e Core Web Vitals no green. Background em marketing e operações que se traduz em decisões técnicas orientadas a negócio, não só em componente.
 
 ## 🚀 Sobre mim
 
-Sou especializado no ecossistema React, Node.js e TypeScript, transformando ideias em produtos web robustos e escaláveis — do design no Figma à aplicação em produção, da modelagem de dados à entrega de APIs performáticas. Valorizo tipagem de ponta a ponta, arquitetura bem estruturada e experiências de usuário que realmente impactam conversão.
+Atuo no ecossistema TypeScript full-stack: arquiteturas RESTful com **Fastify** e **NestJS** (DDD, testes unitários e e2e), APIs em produção com autenticação e RBAC, e interfaces em **Next.js** com foco em performance, acessibilidade e SEO. Aplico DevSecOps em pipelines de CI — verificação de segurança, lint, typecheck e build — antes de qualquer deploy. Uso o **Claude Code** como parte do fluxo de engenharia para acelerar arquitetura, revisão de código e garantia de qualidade.
 
-- 🔭 Atualmente aprofundando **NestJS + arquitetura backend**, performance e boas práticas em aplicações escaláveis
-- 🌱 Estudando **Centro Universitário do Triângulo (Unitri)**
-- 💼 **Aberto a oportunidades** como Desenvolvedor Web / Front-end Engineer (React.js)
-- ⚡ Antes de programar, atuei com logística e marketing, por isso penso no usuário e no negócio, não só no componente
+- 🔭 Atualmente aprofundando **arquitetura de APIs com NestJS**, DevSecOps e pipelines de CI com verificação automatizada de segurança e qualidade
+- 🌱 Cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário do Triângulo — Unitri
+- 💼 **Aberto a oportunidades** como Full-Stack Engineer (TypeScript) — Next.js no front, NestJS/Fastify no back
+- ⚡ Vim de logística e marketing antes do dev — isso me dá visão de produto e negócio, não só entrega técnica
 
 ## 🛠️ Projetos
 
-Crio aplicações web prontas para produção (HardCore Ecommerce, Portfólio, Estúdio Pilates), com foco em APIs seguras, UX moderna e arquitetura escalável.
+Crio aplicações web prontas para produção com foco em APIs seguras, UX moderna e arquitetura escalável.
 
 <table>
   <tr>
@@ -41,13 +41,11 @@ Crio aplicações web prontas para produção (HardCore Ecommerce, Portfólio, E
     </td>
   </tr>
   <tr>
-    <td align="center"><b>HardCore Ecommerce</b><br />144 Produtos · Oauth · Email Services</td>
+    <td align="center"><b>HardCore Ecommerce</b><br />144 Produtos · OAuth · Email Services</td>
     <td align="center"><b>Portfolio Website</b><br />SEO · Responsive · Performance</td>
     <td align="center"><b>Estudio Pilates</b><br />Gerenciamento · Marketing · RBAC</td>
   </tr>
 </table>
-
----
 
 ## 💻 Technologies
 
@@ -95,6 +93,7 @@ Crio aplicações web prontas para produção (HardCore Ecommerce, Portfólio, E
 <!-- Tools -->
 
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](#)&nbsp;
+[![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)](#)&nbsp;
 [![Apidog](https://img.shields.io/badge/-Apidog-F44A53?style=flat&logo=apidog&logoColor=white)](#)&nbsp;
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
