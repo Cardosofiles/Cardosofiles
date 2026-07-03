@@ -1,4 +1,4 @@
-# Olá, eu sou o João Batista 👋
+# 👋 Olá, eu sou o João Batista 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cardosofiles)&nbsp;
 [![Portfolio](https://img.shields.io/badge/-Portfolio-111111?style=flat&logo=vercel&logoColor=white)](https://www.cardosofiles.com.br)&nbsp;
@@ -18,7 +18,7 @@ Sou especializado no ecossistema React, Node.js e TypeScript, transformando idei
 - 💼 **Aberto a oportunidades** como Desenvolvedor Web / Front-end Engineer (React.js)
 - ⚡ Antes de programar, atuei com logística e marketing, por isso penso no usuário e no negócio, não só no componente
 
-## Projetos
+## 🛠️ Projetos
 
 Crio aplicações web prontas para produção (HardCore Ecommerce, Portfólio, Estúdio Pilates), com foco em APIs seguras, UX moderna e arquitetura escalável.
 
@@ -49,7 +49,7 @@ Crio aplicações web prontas para produção (HardCore Ecommerce, Portfólio, E
 
 ---
 
-### Technologies
+## 💻 Technologies
 
 <!-- Frontend -->
 
