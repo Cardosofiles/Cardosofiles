@@ -7,11 +7,9 @@
 
 ### Full-Stack Engineer • TypeScript · Next.js · NestJS · Fastify · DevSecOps
 
-> Desenvolvo aplicações web full-stack de ponta a ponta — de APIs RESTful seguras e bem arquitetadas a interfaces performáticas com SEO e Core Web Vitals no green. Background em marketing e operações que se traduz em decisões técnicas orientadas a negócio, não só em componente.
+> Atuo no ecossistema TypeScript full-stack: arquiteturas RESTful com **Fastify** e **NestJS** (DDD, testes unitários e e2e), APIs em produção com autenticação e RBAC, e interfaces em **Next.js** com foco em performance, acessibilidade e SEO. Aplico DevSecOps em pipelines de CI — verificação de segurança, lint, typecheck e build — antes de qualquer deploy. Uso o **Claude Code** como parte do fluxo de engenharia para acelerar arquitetura, revisão de código e garantia de qualidade.
 
 ## 🚀 Sobre mim
-
-Atuo no ecossistema TypeScript full-stack: arquiteturas RESTful com **Fastify** e **NestJS** (DDD, testes unitários e e2e), APIs em produção com autenticação e RBAC, e interfaces em **Next.js** com foco em performance, acessibilidade e SEO. Aplico DevSecOps em pipelines de CI — verificação de segurança, lint, typecheck e build — antes de qualquer deploy. Uso o **Claude Code** como parte do fluxo de engenharia para acelerar arquitetura, revisão de código e garantia de qualidade.
 
 - 🔭 Atualmente aprofundando **arquitetura de APIs com NestJS**, DevSecOps e pipelines de CI com verificação automatizada de segurança e qualidade
 - 🌱 Cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário do Triângulo — Unitri
