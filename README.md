@@ -5,13 +5,13 @@
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=Profile+Views)
 
-### Desenvolvedor Web • React · Next.js · TypeScript
+### Desenvolvedor Web • React · Next.js · Node.js · TypeScript
 
 > Construo interfaces rápidas, acessíveis e orientadas a produto. **Front-end Engineer** com olhar de UX, Core Web Vitals e SEO — e background em marketing que vira visão de negócio.
 
 ## 🚀 Sobre mim
 
-Sou focado no ecossistema **React + TypeScript**, transformando ideias em produtos web reais, do design no Figma à aplicação em produção. Gosto de código tipado de ponta a ponta, arquitetura que escala e detalhes de UX que fazem diferença na conversão.
+Sou focado no ecossistema **React + Node.js + TypeScript**, transformando ideias em produtos web reais, do design no Figma à aplicação em produção. Gosto de código tipado de ponta a ponta, arquitetura que escala e detalhes de UX que fazem diferença na conversão.
 
 - 🔭 Atualmente aprofundando **NestJS + arquitetura backend**, performance e boas práticas em aplicações escaláveis
 - 🌱 Estudando **Centro Universitário do Triângulo (Unitri)**
