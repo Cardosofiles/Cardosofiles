@@ -18,9 +18,41 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 - 💼 **Aberto a oportunidades** como Desenvolvedor Web / Front-end Engineer (React.js)
 - ⚡ Antes de programar, atuei com logística e marketing, por isso penso no usuário e no negócio, não só no componente
 
+## Projetos
+
+Criador de aplicações web prontas para produção (HardCode Ecommerce, Portfólio, Estúdio Pilates), com foco em APIs seguras, UX moderna e arquitetura escalável.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://e.commerce.cardosofiles.com.br/">
+        <img width="100%" src="assets/ecommerce.png" alt="Ecommerce Hero Page" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.cardosofiles.com.br/pt">
+        <img width="100%" src="assets/portfolio.png" alt="Portfolio Hero Page" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://estudio.cardosofiles.com.br/">
+        <img width="100%" src="assets/pilates.png" alt="Pilates Hero Page" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>HardCode Ecommerce</b><br />144 Produtos · Oauth · Email Services</td>
+    <td align="center"><b>Portfolio Website</b><br />SEO · Responsive · Performance</td>
+    <td align="center"><b>Estudio Pilates</b><br />Gerenciamento · Marketing · RBAC</td>
+  </tr>
+</table>
+
+---
+
 ### Technologies
 
 <!-- Frontend -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -40,6 +72,7 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 
 <!-- Backend -->
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -50,6 +83,7 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 <!-- Cloud -->
+
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
@@ -59,6 +93,7 @@ Sou focado no ecossistema **React + TypeScript**, transformando ideias em produt
 ![Neon](https://img.shields.io/badge/-Neon-00E599?style=flat&logo=neon&logoColor=white)
 
 <!-- Tools -->
+
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](#)&nbsp;
 [![Apidog](https://img.shields.io/badge/-Apidog-F44A53?style=flat&logo=apidog&logoColor=white)](#)&nbsp;
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](#)
