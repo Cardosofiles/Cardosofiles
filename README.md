@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mim
 
-Sou focado no ecossistema **React + Node.js + TypeScript**, transformando ideias em produtos web reais, do design no Figma à aplicação em produção. Gosto de código tipado de ponta a ponta, arquitetura que escala e detalhes de UX que fazem diferença na conversão.
+Sou especializado no ecossistema React, Node.js e TypeScript, transformando ideias em produtos web robustos e escaláveis — do design no Figma à aplicação em produção, da modelagem de dados à entrega de APIs performáticas. Valorizo tipagem de ponta a ponta, arquitetura bem estruturada e experiências de usuário que realmente impactam conversão.
 
 - 🔭 Atualmente aprofundando **NestJS + arquitetura backend**, performance e boas práticas em aplicações escaláveis
 - 🌱 Estudando **Centro Universitário do Triângulo (Unitri)**
@@ -20,7 +20,7 @@ Sou focado no ecossistema **React + Node.js + TypeScript**, transformando ideias
 
 ## Projetos
 
-Criador de aplicações web prontas para produção (HardCode Ecommerce, Portfólio, Estúdio Pilates), com foco em APIs seguras, UX moderna e arquitetura escalável.
+Crio aplicações web prontas para produção (HardCore Ecommerce, Portfólio, Estúdio Pilates), com foco em APIs seguras, UX moderna e arquitetura escalável.
 
 <table>
   <tr>
@@ -41,7 +41,7 @@ Criador de aplicações web prontas para produção (HardCode Ecommerce, Portfó
     </td>
   </tr>
   <tr>
-    <td align="center"><b>HardCode Ecommerce</b><br />144 Produtos · Oauth · Email Services</td>
+    <td align="center"><b>HardCore Ecommerce</b><br />144 Produtos · Oauth · Email Services</td>
     <td align="center"><b>Portfolio Website</b><br />SEO · Responsive · Performance</td>
     <td align="center"><b>Estudio Pilates</b><br />Gerenciamento · Marketing · RBAC</td>
   </tr>
