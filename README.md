@@ -13,7 +13,8 @@
 
 - 🔭 Atualmente aprofundando **arquitetura de APIs com NestJS**, DevSecOps e pipelines de CI com verificação automatizada de segurança e qualidade
 - 🌱 Cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário do Triângulo — Unitri
-- 💼 **Aberto a oportunidades** como Full-Stack Engineer (TypeScript) — Next.js no front, NestJS/Fastify no back
+- 💼 Mantenho 3 portais institucionais em produção (Unitri, Universo, Colégio Dom Helder) da Associação Salgado de Oliveira de Educação e Cultura
+- 🫱🏻‍🫲🏻 **Aberto a oportunidades** como Full-Stack Engineer (TypeScript) — Next.js no front, NestJS/Fastify no back
 - ⚡ Vim de logística e marketing antes do dev — isso me dá visão de produto e negócio, não só entrega técnica
 
 ## 🛠️ Projetos
