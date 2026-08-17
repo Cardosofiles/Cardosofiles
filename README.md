@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:cardosofiles@outlook.com)&nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Cardosofiles&color=6E7681&style=flat&label=Profile+Views)
 
-### Full-Stack Engineer • TypeScript · Next.js · NestJS · Fastify · DevSecOps
+### Full-Stack Engineer • TypeScript · NestJS · Fastify · Next.js · DevSecOps
 
 > Atuo no ecossistema TypeScript full-stack: arquiteturas RESTful com **Fastify** e **NestJS** (DDD, testes unitários e e2e), APIs em produção com autenticação e RBAC, e interfaces em **Next.js** com foco em performance, acessibilidade e SEO. Aplico DevSecOps em pipelines de CI — verificação de segurança, lint, typecheck e build — antes de qualquer deploy. Uso o **Claude Code** como parte do fluxo de engenharia para acelerar arquitetura, revisão de código e garantia de qualidade.
 
